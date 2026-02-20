@@ -1,0 +1,226 @@
+--- Page 1 ---
+I1LED
+KING COUNTY, WASHINGTON FILED
+
+3/11/2024
+MAR 1 4 2024 Court of Appeals
+RK Division |
+SUPERIOR COURT CLE State of Washington
+
+IN THE COURT OF APPEALS OF THE STATE OF WASHINGTON
+
+MELVINA MANNING, Case® 23.:2-093 30 -3 KNT
+No. 84450-4-1
+Respondent,
+DIVISION ONE
+Vv.
+UNPUBLISHED OPINION
+
+ZACKARIAH JEREMIAH BENNETT,
+
+Appellant.
+
+HAZELRIGG, A.C.J. — Zackariah Bennett seeks reversal of a domestic
+violence protection order based on a number of purported evidentiary errors.
+Because Bennett acknowledges that the order expired two months before his
+opening brief was filed and fails to demonstrate why this panel should nonetheless
+
+reach the merits of his challenge, the appeal is dismissed as moot.
+
+FACTS
+Zackariah Bennett is the father of minor son, TB. Melvina Manning,
+Bennett's mother and TB’s grandmother, has had legal custody of TB since 2008.1
+The parties appear to agree that Bennett was incarcerated for a significant portion
+of the time since Manning was granted custody of TB. The parties dispute the
+timeline of attempted contact between Bennett and TB.
+On June 17, 2022, Manning filed a petition for a domestic violence
+
+protection order (DVPO) in King County District Court, seeking to prevent Bennett
+
+' The trial court referenced a 2008 custody order by case number and the same case is
+noted by Manning. Bennett acknowledges that Manning has had custody since 2008.
+
+
+--- Page 2 ---
+No. 84450-4-1/2
+
+from contacting her or TB based on two particular incidents. Manning outlined her
+assertions about Bennett’s conduct in the petition and attached a declaration from
+TB about the interactions. On June 21, 2022, the court entered a temporary order
+for protection restraining Bennett from contacting Manning or TB, and set a hearing
+date for July 1, 2022. At the July 1 hearing, the court ordered a three-week
+continuance based on Bennett’s request for time to gather documentation to
+support his case. Bennett also sought a subpoena for footage from Manning's
+Ring? camera so that it could be reviewed by the court as evidence of what
+transpired between the parties on June 12, 2022. The court informed him that the
+state law governing the proceedings, former chapter 26.50 RCW (2019) and
+chapter 7.105 RCW,° did not permit the court to grant subpoenas or other
+discovery requests on Manning. On July 22, 2022, the court granted another
+continuance to give Bennett an opportunity to resubmit signed copies of the
+declarations he had provided to the court.
+
+On August 5, 2022, after hearing argument from both parties, the court
+granted the DVPO and set the expiration one year from the issuance date. It found
+that the “unlawful harassment” component of domestic violence was most relevant
+to the circumstances and that Bennett’s course of conduct served no legitimate
+purpose because he initiated the contact and he had received notice that Manning
+
+did not want him on her property. The court also found that Manning and TB were
+
+2 “Ring” is a manufacturer and operator of home surveillance and security products and
+services, including doorbell cameras.
+
+3 Former chapter 26.50 RCW (2019) was repealed by the Laws of 2021, ch. 215, § 170 but
+was the chapter that pertained to domestic violence prevention at the time the DVPO was ordered,
+while chapter 7.105 RCW continues to govern civil protection orders.
+
+=Qs
+
+
+--- Page 3 ---
+No. 84450-4-1/3
+
+intimidated by Bennett's behavior and that the issuance of a previous restraining
+order was relevant.
+
+Bennett timely filed his notice of appeal in the trial court on September 6,
+2022, and it was transmitted to this court on September 8. However, he
+subsequently filed four separate motions for extensions of time to file his opening
+brief, the last of which acknowledged that the DVPO had expired on August 5,
+
+2023. Bennett’s opening brief was filed on October 3, 2023.
+
+ANALYSIS
+
+Bennett asserts that the trial court erred in reviewing a privileged exchange
+of messages between him and his former wife, in denying his request for the
+production and admission of security camera footage from Manning’s house, and
+in not addressing spoliation of that footage. He also argues that the words he used
+in the latter of the two incidents underlying the petition for the DVPO are protected
+by the First Amendment to the United States Constitution and that he has a
+constitutionally-protected interest in maintaining a relationship with his son.
+Bennett’s fourth and final motion for extension of time to file his opening brief noted,
+“An extension would maintain the status quo, as the DVPO has already expired
+(08/05/2023).” (Emphasis added.) In the conclusion of his opening brief, filed
+October 3, 2023, Bennett acknowledges that, “[a]s of this writing, the protection
+order has been expired for nearly [two] months,” and yet requests that this court
+reverse the order. In her response brief, Manning addresses Bennett's various
+
+arguments and moves for dismissal of the appeal as moot.
+
+
+--- Page 4 ---
+No. 84450-4-1/4
+
+“A case is moot if a court can no longer provide effective relief.” Maldondo
+v. Maldondo, 197 Wn. App. 779, 790, 391 P.3d 546 (2017). Although we generally
+dismiss cases presenting only moot issues, we will consider issues that are of
+substantial and continuing interest. Blackmon v. Blackmon, 155 Wn. App. 715,
+720, 230 P.3d 233 (2010). In determining whether a case presents an issue of
+substantial and continuing interest, three factors are determinative: whether the
+issue is of a public or private nature, whether a determination is likely to provide
+future guidance to public officers, and whether the issue is likely to reoccur. /n re
+Dep. of L.C.S., 200 Wn.2d 91, 99, 514 P.3d 644 (2022). The issuance of the DVPO
+is a private matter between Manning and Bennett and there is an abundance of
+case law to guide trial courts in the process of ruling on petitions for protection
+orders. Additionally, there is no indication that the precise evidentiary issues
+Bennett challenges here will arise in the future, even if Manning were to petition
+for a new protection order.
+
+Most critically, while Bennett acknowledged in his final motion for an
+extension of time to file his opening brief, and in the brief itself, that the DVPO had
+already expired, he failed to engage with the test for mootness until his reply.* It
+is well established that we will not evaluate the merits of an argument raised for
+the first time in a reply brief. See In re Dep. of A.N.C., 24 Wn. App. 2d 408, 419,
+
+520 P.3d 500 (2022) (quoting Brown v. Vail, 169 Wn.2d 318, 336 n.11, 237 P.3d
+
+4 Bennett asserts in the “issue” portion of his reply brief that the DVPO is “public and falsely
+alleges domestic violence, which is highly detrimental to reputation, exponentially worse for
+someone striving to overcome a criminal history by building a good reputation.” These conclusory
+statements, even if true, are offered without citation to legal authority or fact-specific analysis, and
+more Critically, presented for the first time in reply. Accordingly, we decline to consider this
+argument.
+
+
+--- Page 5 ---
+No. 84450-4-1/5
+
+263 (2010) ("A party that offers no argument in its opening brief on a claimed
+assignment of error waives the assignment.””)). Accordingly, he has failed to
+satisfy his burden on appeal to establish that this panel should reach the merits of
+his challenges.
+
+Manning’s motion to dismiss the appeal as moot is granted.‘
+
+WE CONCUR:
+
+Dar, 3.
+
+5 In the conclusion of her response brief, Manning requests attorney fees on appeal, but
+fails to offer any legal basis for such an award. RAP 18.1(a) requires that a request for attorney
+fees under that rule be supported by citation to authority and argument “to advise the court of the
+appropriate grounds for an award of attorney fees as costs.” Stiles v. Kearney, 168 Wn. App. 250,
+267, 277 P.3d 9 (2012). We decline to award fees as Manning’s request does not comply with the
+RAP.
+
+-5-
+
+
+--- Page 6 ---
+The Court of Appeals
+
+LEA ENNIS ofthe DIVISION |
+Court Administrator/Clerk State of Washington One Union Square
+600 University Street
+
+Seattle, WA
+
+98101-4170
+(206) 464-7750
+
+March 11, 2024
+
+Zackariah J. Bennett Nancy Ann Gass
+
+17 Old Mountain Rd O.W. Hollowell & Associates
+Goldendale, WA 98620 PO Box 1041
+zackjbennett@gmail.com Carnation, WA 98014-1041
+
+carnationlaw@comcast.net
+
+Case #: 844504
+Melvina Manning, Respondent v. Zackariah J. Bennett, Appellant
+King County Superior Court No. 22-2-09380-3
+
+Counsel:
+
+Enclosed is a copy of the opinion filed in the above-referenced appeal which states in
+part:
+
+Manning's motion to dismiss the appeal as moot is granted.
+
+Counsel may file a motion for reconsideration within 20 days of filing this opinion
+pursuant to RAP 12.4(b). If counsel does not wish to file a motion for reconsideration
+but does wish to seek review by the Supreme Court, RAP 13.4(a) provides that if no
+motion for reconsideration is made, a petition for review must be filed in this court within
+30 days.
+
+In accordance with RAP 14.4(a), a claim for costs by the prevailing party must be
+supported by a cost bill filed and served within ten days after the filing of this opinion, or
+claim for costs will be deemed waived.
+
+Should counsel desire the opinion to be published by the Reporter of Decisions, a
+motion to publish should be served and filed within 20 days of the date of filing the
+Opinion, as provided by RAP 12.3 (e).
+
+Sincerely,
+
+ee ES
+
+Lea Ennis
+Court Administrator/Clerk
+
+ejg
+
+cc: Honorable Lindsey Goheen

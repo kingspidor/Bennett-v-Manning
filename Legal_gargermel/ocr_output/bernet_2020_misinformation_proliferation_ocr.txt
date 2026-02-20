@@ -1,0 +1,962 @@
+--- Page 1 ---
+PARENTAL ALIENATION AND MISINFORMATION PROLIFERATION
+
+William Bernet
+
+Since parental alienation syndrome (PAS) was identified in the 1980's, there has been a remarkable amount of misinformation
+regarding both PAS and parental alienation (PA). These falsehoods were published in professional journals, presented at confer-
+ences, and distributed through internet websites and blogs. This article summarizes five examples of published misinformation
+regarding PAS/PA. Each case study includes: the false statements that were published in the medical, psychological, or legal
+professional literature; the names of the individuals who made the false statements; and the steps taken to refute the falsehoods
+and correct the record. The writers of the misinformation were from Sweden, Tunisia, Spain, and the United States, which illus-
+trates the international scope of PAS/PA. In one example, the misinformation reached the U.S. House of Representatives and
+was almost included in a formal resolution adopted by that body. The article discusses various underlying causes of the high
+level of polarization in PAS/PA scholarship. The article also proposes steps that both mental health and legal writers can adopt
+to reduce the destructive polarization that has occurred. In general, however, clinicians, forensic practitioners, and legal profes-
+sionals should remain vigilant when they read articles or listen to presentations about topics that might be considered
+controversial.
+
+Key Points for the Family Court Community:
+
+e Since 1985, a remarkable amount of misinformation regarding parental alienation and parental alienation syndrome
+has been published in professional literature and presented at conferences.
+
+e When misinformation occurs in journal articles and books for mental health and legal professionals, readers may
+want to contact the editor and publisher in order to correct the record.
+
+e When misinformation occurs in presentations at conferences for professionals, audience members may want to chal-
+lenge the presenter to correct the false statements.
+
+e When practitioners have conflicting opinions regarding a topic, a constructive activity might be for them to write an
+article together for publication, in which they clarify where they agree and where they disagree.
+
+Keywords: Cognitive Dissonance; Disinformation; Misinformation; Parental Alienation; Parental Alienation Syndrome;
+Partisanship; U.S. House of Representatives.
+
+I. INTRODUCTION
+
+Parental alienation syndrome (PAS) was identified by Richard Gardner in 1985.' Subsequent
+writers generally referred to parental alienation (PA) rather than PAS. For example, a comprehen-
+sive book regarding this topic—which referred to PAS—was Parental Alienation Syndrome: The
+International Handbook of Parental Alienation Syndrome: Conceptual, Clinical and Legal Consid-
+erations. That book, which was published in 2006, was edited by Gardner, Sauber, and Lorandos.
+However, subsequent books by the same editors and authors referred to PA rather than PAS: Paren-
+tal Alienation, DSM-5, and ICD-11; Parental Alienation: The Handbook for Mental Health and
+Legal Professionals; and Parental Alienation — Science and Law.
+
+For purposes of this article, PAS and PA are meant to be synonymous. PAS specifically refers
+to the “syndrome” of eight characteristic behaviors identified by Gardner: the child’s campaign of
+denigration against the alienated parent; frivolous rationalizations for the child’s criticism of the
+alienated parent; lack of ambivalence; the independent-thinker phenomenon; reflexive support of
+the preferred parent against the alienated parent; absence of guilt over exploitation and mistreatment
+of the alienated parent; borrowed scenarios; and spread of the child’s animosity toward the alienated
+
+Corresponding: william.bernet@vumc.org
+
+FAMILY COURT REVIEW, Vol. 58 No. 2, April 2020 293-307
+© 2020 Association of Family and Conciliation Courts
+
+
+--- Page 2 ---
+294 FAMILY COURT REVIEW
+
+parent’s extended family.’ Other writers have adopted a broader perspective in order to better under-
+stand the alienated child. For example, Kelly and Johnston said, “[t]o adequately diagnose and
+effectively intervene when a child is presented as alienated, a systems framework that assesses the
+multiple and interrelated factors influencing the child’s response during and after separation and
+divorce is critical.”
+
+Despite different points of view, almost every scholar who addresses these topics would agree
+with this generic definition of both PAS and PA: “a mental condition in which a child—usually one
+whose parents are engaged in a high-conflict separation or divorce—allies himself or herself
+strongly with an alienating parent and rejects a relationship with the target parent without legitimate
+justification.”
+
+Indeed, critics and detractors of PAS/PA routinely lump these concepts and terms together. For
+example, a Judge’s Guide, published by the National Council of Juvenile and Family Court Judges,
+referred to “[t]he discredited ‘diagnosis’ of ‘PAS’ (or allegation of ‘parental alienation’).”° Also,
+Meier explained, “[iJn short, the reality is that whatever some researchers may say about the differ-
+ences between PAS and PA, in practice, PA is rarely understood to be different. Indeed, some pro-
+ponents of alienation theory simply cite to both PAS and PA without distinction.”® Not long ago,
+Benjamin and his colleagues made the same point: “[p]roponents of PAS have developed different
+names for it over the past two decades, including more recently parental alienation disorder (PAD)
+and parental alienation relational problem. This syndrome or disorder has been promoted by some,
+but it is strongly disputed by many others ....”’ Thus, the concepts of PAS and PA have much more
+in common than they differ, and both terms are used in this article.
+
+Throughout the 35-year history of this field of study, there has been a remarkable amount of
+false information about both PAS and PA. This false information was published in professional
+journals, presented at conferences, and distributed through internet websites, blogs, and mass media.
+It was propagated by individuals who hoped to discredit the concept of PAS/PA. It is not known
+whether those individuals acted out of ignorance (citing and repeating misinformation) or deliber-
+ately spread false material (disinformation) regarding this serious mental condition.* The prolifera-
+tion of misinformation is very important for forensic practitioners, attorneys, and judges because it
+may be introduced in court through the testimony of expert witnesses, to the detriment of children,
+families, and the judicial process itself.
+
+This level of misinformation—the persistent distribution of fabrication masquerading as scientific
+inquiry—may be unique in the history of psychiatry and psychology. This article summarizes five
+examples of published misinformation regarding PA. The examples come from Sweden, Tunisia,
+Spain, and the United States, which illustrates the international scope of PA. Each case study
+includes: the false statements (in italics) that were published in the medical, psychological, or legal
+professional literature; the names of the individuals who made the false statements; and the steps
+that were taken to refute the falsehoods and correct the record. This article illustrates both success-
+ful and unsuccessful attempts at publishing revised and corrected statements. The steps taken to
+revise and correct false statements regarding PA were undertaken by members of the Parental
+Alienation Study Group (PASG), a not-for-profit organization that educates the general public, men-
+tal health clinicians, forensic practitioners, attorneys, judges, and policy makers regarding PA.”
+
+Il. SWEDEN — A MAJOR PUBLISHER OF LAW BOOKS
+
+Norstedts Juridik, a leading international publisher of legal tools and services, states on their
+website: “[oJur large network of writers and lecturers today consists of over 1,000 well-reputed legal
+experts. It is their profound subject knowledge and experience that forms the basis for the quality
+of the literature we publish ....”'° Their network of writers includes Christian and Eva Diesen, hus-
+band and wife, who are both lawyers. In 2013, Diesen and Diesen published Overgrepp mot
+kvinnor och barn: den réttsliga hanteringen (Abuse of Women and Children: The Legal Manage-
+ment). This book contains a paragraph that is particularly problematic:
+
+
+--- Page 3 ---
+Bernet/PARENTAL ALIENATION MISINFORMATION 295
+
+The suspicion that mothers, usually in connection with custody disputes, accuse the former partner of
+sexual abuse of the children ... has produced a quasi-scientific theory called PAS, parental alienation
+syndrome. The theory, launched by the American child psychiatrist Richard Gardner (an adherent of
+pedophilia)....''
+
+It is, of course, incorrect to refer to PAS as “a quasi-scientific theory.” There are hundreds of arti-
+cles in peer-reviewed journals, chapters, and books that relate qualitative, descriptive research
+regarding PAS/PA. There are a smaller number of published quantitative research studies.'* It is
+also incorrect, and perhaps libelous, to refer to Richard Gardner as “an adherent of pedophilia.”
+That false allegation was created by taking Gardner’s writings out of context, in that he wrote about
+pedophilia and incest, and said that those behaviors have historically been widespread. Gardner
+stated that as a historical fact, but his writings certainly did not indicate that he approved the prac-
+tice of pedophilia. Claiming that Gardner was “an adherent of pedophilia” is an example of char-
+acter assassination, a phenomenon studied extensively by sociologists and political scientists.'°
+
+In response, formal complaints were submitted to the publisher, Norstedts Juridik, and to Stockholm
+University, where Christian Diesen was employed. Both the publisher and the University considered the
+formal complaints, but declined to take any corrective action. At Norstedts Juridik, Olov Sundstrém, the
+chief executive officer of the company, responded to our formal complaint with this email:
+
+We have read your letter carefully and we have also consulted with several external counsels, specialized
+in freedom of expression matters. We can conclude that it falls within the Swedish freedom of expres-
+sion to publish the views expressed by the authors of the book “Overgrepp mot kvinnor och barn.”!*
+
+At Stockholm University, the complaint was initially taken up by a Committee for Preliminary
+Investigation, and subsequently by the Vice-Chancellor of the University; at both levels of review,
+no action was taken. Emma Svennerstam, Legal Counsel for the Vice-Chancellor, explained:
+
+The Vice-Chancellor agrees with the Faculty that the allegation is mainly based on criticism against the
+PAS theory. The reported text passage is neither the result of a dishonest inclusion nor exclusion of data
+or material, but the opinion of the author. This should be clear when reading the text passage, since there
+are no references included. To express criticism in this way does not fall within the scope of what can
+be regarded as scientific misconduct under the University guidelines.'*
+
+In Sweden, apparently, the principle of freedom of expression is very broad and the standards for scholarly
+publications are very liberal. That is, academic writers can say anything they want—including outright
+falsehoods—as long as they are simply stating “the opinion of the author’’ Of course, false statements can
+be either intentional or accidental; both possibilities are incorrect. In many places, the principle of freedom
+of expression is broad and the standards for scholarly publications are liberal. Many academic journals
+and presses give wide latitude to contributors, even if their views are clearly contrary to the weight of opin-
+ion in their area of expertise, and academic institutions are very reluctant to edit the comments of profes-
+sors. Thus, it may be challenging to correct this type of misinformation regarding PA.
+
+I. TUNISIA — A PRESTIGIOUS FORENSIC SCIENCE JOURNAL
+
+Bernet, Gregory, Reay, and Rohner published “An Objective Measure of Splitting in Parental
+Alienation: The Parental Acceptance—Rejection Questionnaire” in the Journal of Forensic Sci-
+ences.'® The article was initially published online on August 17, 2017. Within a few days, a physi-
+cian in Tunis, Tunisia, Vincenzo Puppo, M.D., wrote a letter to the editor of the Journal, in which
+he commented on the article by Bernet et al. and made multiple false statements. The editor of the
+Journal invited Bernet to respond to the statements made by Puppo, and ultimately Puppo’s letter to
+
+
+--- Page 4 ---
+296 FAMILY COURT REVIEW
+
+the editor'’ and Bernet’s response'® were published back-to-back in January 2018. In his letter,
+
+Puppo stated the following misinformation:
+
+Many scholars of psychology and the law have examined the literature regarding PAS: they have
+encountered a lack of empirical studies published in peer-reviewed journals. ... Parental alienation syn-
+drome is not supported by any evidence-based data.'°
+
+In reply, the Parental Alienation Database, an online resource located at the library at Vanderbilt Univer-
+sity School of Medicine, contains about 800 references to qualitative research and 200 references to
+quantitative research regarding PA. Also, Saini, Johnson, Fidler, and Bala reviewed fifty-eight research
+studies regarding PA and they concluded: “There is remarkable agreement about the behavioral strate-
+gies parents can use to potentially manipulate their children’s feelings, attitudes, and beliefs in ways that
+may interfere with their relationship with the other parent. The cluster of symptoms or behaviors indicat-
+ing the presence of alienation in the child can also be reliably identified””° Thus, it is incorrect to say
+there is “a lack of empirical studies published in peer-reviewed journals.”
+
+[Parental alienation syndrome is] unknown in medical settings, unquoted in medical books .... Parental
+alienation syndrome has been discredited by mental health professionals....7'
+
+In reply, it is easy to show that PA/PAS has been addressed and discussed in books intended for medi-
+cal, psychiatric, and psychological professionals, as seen in: the Principles and Practice of Child and
+Adolescent Forensic Mental Health;2 Salem Health Psychology and Mental Health”; the Cultural Soci-
+ology of Divorce;** the Handbook of Forensic Psychology;*> the Wiley Encyclopedia of Forensic Science
+(2015); the Encyclopedia of Clinical Psychology;?’ Kaplan and Sadock’s Comprehensive Textbook of
+Psychiatry;> and the Principles and Practice of Forensic Psychiatry? Thus, it is incorrect to say that
+PAS/PA is “unknown in medical settings, unquoted in medical books.”
+
+In the case of Vincenzo Puppo, the false statements made in his letter to the editor were thor-
+oughly refuted by a response in the same issue of the Journal of Forensic Sciences.
+
+IV. SPAIN — A JOURNAL REGARDING YOUTH SERVICES
+
+In 2015, Miguel Clemente and Dolores Padilla-Racero, psychologists practicing in Spain, published
+a problematic article in Children and Youth Services Review. The authors reported a research study,
+which involved asking children suggestive questions, and they stated, “We conclude that Gardner’s ideas
+about parental alienation syndrome, and in particular the ease of parental manipulation of children, were
+not empirically verified. We recommend that this concept not be used in the legal system”? In their
+article, Clemente et al. made several false statements regarding PAS: “The truth is that PAS, from a sci-
+entific point of view, is virtually unknown.’*' In reply, a popular software program that is used for cita-
+tion analysis of psychosocial publications yields 1,000 citations (including articles in the professional
+literature, books, and book chapters) when asked to search for the phrase “parental alienation””** One
+thousand citations are the maximum that the program allows for a search.
+
+Thus, if a child states that she does not want to see her father, this is explained as fruit of the mother’s
+manipulation, and the mother would be accused of being a manipulative mother. However, the hypothe-
+sis that the child is being physically or even sexually abused by her father is not contemplated and
+therefore not investigated.**
+
+In reply, it is flatly incorrect to say that experts who evaluate a child for PAS or PA do not consider
+the possibility that the rejected parent actually abused the child. Gardner himself published an arti-
+cle specifically on that topic, “Differentiating Between Parental Alienation Syndrome and Bona
+
+
+--- Page 5 ---
+Bernet/PARENTAL ALIENATION MISINFORMATION 297
+
+Fide Abuse—Neglect.”** Starting with the seminal article in which he defined PAS, Gardner said, “I
+have introduced this term to refer to a disturbance in which children are obsessed with deprecation
+and criticism of a parent—denigration that is unjustified and/or exaggerated.”*° More specifically,
+Gardner later said, “When bona fide abuse does exist, then the child’s responding hostility is
+warranted and the concept of the parental alienation syndrome is not applicable.”*°
+
+The term, “campaign of denigration” assumes that the child is lying.*’
+
+In reply, this statement by Clemente et al. is a classic straw man argument, in that they present a
+false explanation of PA theory and then they criticize the explanation that they have created. No
+experienced evaluator would “assume” that a child is lying simply on the basis of that one behav-
+ioral symptom.
+
+In response to this deeply flawed article by Clemente et al., several members of PASG prepared
+a detailed response that was published several months later in Children and Youth Services
+Review.*® Bernet, Verrocchio, and Korosi thought that the Clemente et al. article had so many errors
+that it should be withdrawn from publication. Although the editor and publisher of Children and
+Youth Services Review did not agree with that recommendation, they did quickly publish the critique
+by Bernet et al. of the article by Clemente et al. When misinformation regarding PA appears in a
+mental health or legal journal, a well written response that is promptly published should reduce the
+repetition of false information. The critique of Clemente et al. is a good example of how serious
+errors in the professional literature can be counteracted to some extent, but they cannot always be
+erased.
+
+V. AMERICAN PSYCHOLOGICAL ASSOCIATION
+
+Family Evaluation in Custody Litigation: Promoting Optimal Outcomes and Reducing Ethical
+Risks, Second Edition, was published by the American Psychological Association (APA) in January
+2018 as part of the American Psychological Association’s Law and Public Policy series. This book
+contained several serious misstatements regarding PAS/PA. These statements did not simply repre-
+sent differences in professional opinions; they were blatantly false and misleading. The authors of
+the book were G. Andrew H. Benjamin, Connie J. Beck, Morgan Shaw, and Robert Geffner. Per-
+haps the most egregious misinformation in this book published by the APA was:
+
+[Parental alienation syndrome] further assumes that a child’s strong alignment with one parent while
+rejecting a relationship with the other parent is without legitimate justification, including situations in
+which there is child abuse (Bernet, von Boch-Galhau, Baker, & Morrison, 201 0).°°
+
+That one sentence, which reflected badly on Bernet et al., contained two serious misstatements.
+First, PA theory does not “assume” that a child’s contact refusal “ts without legitimate justifica-
+tion.” Every competent writer on this topic knows that PA is one possible explanation for a child’s
+contact refusal, but not the only possibility. Bernet et al—in the article cited by Benjamin et al_—
+stated that clearly:
+
+We use the phrase contact refusal for the behavior of the child or adolescent who adamantly avoids
+spending time with one of the parents. Contact refusal is simply a symptom that could have a number of
+possible causes, one of which is parental alienation. This terminology is similar to school refusal, which
+is simply a symptom that could have a number of possible causes.*°
+
+Second, it was irresponsible for Benjamin et al. to state that the concept of PA includes “situations in
+which there is child abuse.”” Every competent writer on this topic knows that scores of authors—starting
+
+
+--- Page 6 ---
+298 FAMILY COURT REVIEW
+
+with Gardner in 1985*'—have explained that the diagnosis of PA or PAS excludes contact refusal due
+to abuse or neglect. It is remarkable that Benjamin et al. misrepresented PA scholarship by attributing
+opinions to Bernet et al. that are the exact opposite of what was actually said in Bernet et al.:
+
+The diagnosis of parental alienation relational problem should not be used if the child’s refusal to have
+
+contact with the rejected parent is justifiable, for example, if the child was neglected or abused by that
+42
+
+parent.
+
+Shortly after this book was published, a formal complaint was submitted to the first author of the
+book, the editor of the series, and the leadership of the APA. The general counsel of APA
+responded that the authors of Family Evaluation in Custody Litigation agreed to change the offen-
+sive sentence noted above to the following:
+
+The concept of PAS assumes that a child’s strong alignment with one parent and rejection of the other is
+often without legitimate justification. Supporters of this concept and syndrome state that its use should
+be excluded if the child was neglected or abused by that parent (Bernet et al., 2010) though, as we
+report later in this section, we have seen court cases where a legal argument for parental alienation
+was successfully made even when abuse was indeed present, with negative effects on the child.**
+
+Thus, the leadership of APA agreed that the book, as originally published, contained a serious
+misstatement that required correction. However, the APA only changed the digital version of
+Family and Child Custody Litigation; they said they would correct the hard copies “in all future
+runs of the book’s print edition.”** Also, it is notable that although the APA agreed to correct one
+sentence of the book, they refused to make any change in other instances of misinformation in
+the same chapter. The following false or misleading statements continue to be advertised and sold
+by the APA:
+
+This syndrome or disorder has been promoted by some (Lorandos, Bernet, & Sauber, 2013; Warshak,
+2010), but it is strongly disputed by many others because of the lack of valid and reliable peer-reviewed
+research regarding PAS/PAD during the last twenty-five years (Bond, 2008; Kelly & Johnston, 2001;
+Meier, 2009; Walker & Shapiro, 2010; Zorza, 2009).
+
+In reply, the peer reviewed research regarding PA/PAS was described previously in this article.*°
+
+Further, the use of PAS/PAD is now considered inadmissible in a number of courts (Hoult, 2006), as it
+does not meet the established legal standard for the admissibility of expert testimony (Bond, 2008).*”
+
+In reply, this statement is apparently purposefully misleading; in fact, hundreds of trial and appellate
+courts in the U.S. have admitted and considered testimony regarding PAS or PA.*®
+
+In summary, there is no accepted theory or research supporting such a syndrome (PAS) or disorder
+(PAD), nor the recommendations proposed by their promoters.”
+
+In reply, PA theory has been acknowledged and accepted by the following professional organiza-
+tions in the United States: the American Academy of Child and Adolescent Psychiatry;*? the Asso-
+ciation of Family and Conciliation Courts;° ' the American Academy of Pediatrics;** and the
+American Professional Society on the Abuse of Children.*
+
+No evaluator should base conclusions or recommendations on this approach.>*
+
+
+--- Page 7 ---
+Bernet/PARENTAL ALIENATION MISINFORMATION 299
+
+In reply, there is clearly a danger that psychologists who read this book will take this false pro-
+nouncement as legitimate advice from the APA. Thus, practitioners who follow this advice may
+ignore or overlook PA when it occurs in families they evaluate. This bad advice from Benjamin
+et al. and the APA itself may seriously harm children and families in the future who experience PA.
+
+[L]ittle research evidence exists that demonstrates a parent's ability to successfully program or alienate
+his or her child against the other parent, especially if that child actually has a good relationship with
+the supposed alienated parent, nor have any specific techniques been identified that shows how such
+programming might occur.>
+
+In reply, it is ridiculous to state in a book intended for psychologists that there is “little research
+evidence” regarding programming and brainwashing of children. Psychologists and sociologists
+have studied this phenomenon—including the suggestibility of children and the reliability of their
+reports—for about 100 years.°°
+
+In these types of cases, whenever a preferred parent speaks poorly about the rejected parent, it is viewed
+as an alienating behavior.*’
+
+In reply, that statement by Benjamin et al. is a straw man argument, i.e., giving the impression of
+refuting an opponent’s argument, while actually refuting an argument that was not presented by that
+opponent. No knowledgeable advocate of the concept of PA would say, “/w/henever a preferred
+parent speaks poorly about the rejected parent, it is viewed as an alienating behavior.” Of course,
+persistent and incessant badmouthing of the target parent would likely be considered an alienating
+behavior, of which there are many, but that premise was misstated by Benjamin et al.
+
+The APA is a large organization with more than 120,000 members and many components, which
+may have conflicting opinions regarding PAS/PA, as it does about other difficult topics. Many APA
+members and components accept the reality and the significance of PA, e.g., in 2012, the APA pub-
+lished Guidelines for the Practice of Parenting Coordination. That document does not specifically
+say “parental alienation,” but it refers to the phenomenon in this way: “[t]he knowledge base regard-
+ing children includes the dynamics of complex postseparation situations, such as refusal to visit a
+parent, parental undermining of the child’s relationships with the other parent, relocation of a par-
+ent, and the inappropriate involvement of the child in parental disputes.”°* It is clear that the Guide-
+lines are referring to PA.
+
+Also, in 2015, the APA published the 4P4 Handbook of Forensic Psychology, which contains a
+chapter on “Child Custody and Access,” which has a section with the heading, “Child Alienation.” The
+chapter authors state, “[o]ver the past twenty-five years, considerable discussion has focused on the
+dynamics and processes of child alienation. Several different models describe child alienation.”°
+
+Finally, it is significant that the APA maintains its own online Dictionary of Psychology, which
+discusses both PAS and PA. The entry explains the eight symptoms of PAS originally identified by
+Richard Gardner in 1985. The authors of the APA Dictionary appear to be critical of PAS, but rea-
+sonably positive about PA. They say:
+
+Despite the significant controversy surrounding [parental alienation] syndrome, the more generalized
+concept of parental alienation often is viewed as a legitimate dynamic in many family situations,
+describing the harm done to a child’s security with one caregiver as a result of exposure to another care-
+giver’s unfavorable actions toward or criticism of that person.”
+
+While there are several official APA publications that endorse the reality of PA, the book by Benja-
+min et al. appears to be an outlier. The problem is that even after being notified of numerous errors
+and misstatements, the APA continues to promote a book with serious misinformation about PA.
+
+
+--- Page 8 ---
+300 FAMILY COURT REVIEW
+
+VI. U.S. HOUSE OF REPRESENTATIVES
+
+In the summer of 2017, the U.S. House of Representatives considered House Concurrent Resolu-
+tion 72 (H. Con. Res. 72), a document that referred to “scientifically unsound theories such as
+parental alienation syndrome.” This fragment of significant misinformation was embedded in a
+long document with many provisions, “expressing the sense of Congress that child safety is the first
+priority of custody and visitation adjudications, and that State courts should improve adjudications
+of custody where family violence is alleged.’ Almost no citizen (or member of congress) would dis-
+agree with the idea that “courts should improve adjudications of custody where family violence is
+alleged.” However, representatives were invited to sign on to an elaborate piece of legislation with
+the following provision in the middle of the text:
+
+Whereas scientifically unsound theories such as parental alienation syndrome, enmeshment, and others
+are frequently applied to reject parents’ and children’s reports of abuse .... Now, therefore, be it
+Resolved by the House of Representatives, that it is the sense of Congress that — (1) child safety is the
+first priority of custody and parenting adjudications ....°!
+
+Several members of the child advocacy organization, PASG, decided to fight H. Con. Res. 72, as it was
+initially proposed. Although Rep. Patrick Meehan, the original sponsor of the resolution, had a strong
+record of support with regard to child advocacy and child abuse legislation, he was apparently unaware
+of the inaccuracies concerning PAS that his resolution contained. The author and a colleague met with
+the staff of Rep. Meehan at their office in Washington, D.C. We used most of the time to explain the
+flaw in the resolution and describe our recommended change. We simply recommended that the refer-
+ences to “parental alienation syndrome” and “enmeshment” be deleted from the resolution.
+
+Initially, the resolution was referred to the House Judiciary Committee for consideration, so sev-
+eral members of PASG sent personalized letters and packets of information to all members of that
+Committee. We invited members of other child advocacy organizations to join in this effort. The
+resolution was passed from the Judiciary Committee to the entire House of Representatives, where
+eighty-six members ultimately became co-sponsors. On September 25, 2018, the House of Repre-
+sentatives adopted H. Con. Res. 72 with the modification recommended by PASG. The resolution
+that was adopted by the House and passed on to the Senate stated:
+
+Whereas scientifically unsound theories are frequently applied to reject parents’ and children’s reports of
+abuse ....: Now, therefore, be it Resolved by the House of Representatives, [t]hat it is the sense of Con-
+gress that — (1) child safety is the first priority of custody and parenting adjudications ....°
+
+While a concurrent resolution is a federal action, it is not legislation that ultimately becomes law.
+Instead, a resolution expresses the opinion of the House of Representatives and the Senate about an
+important topic. However, it is clear that detractors of PA are highly organized and were hoping for
+the U.S. Congress to endorse their way of thinking. If Congress enacted the resolution as originally
+proposed, attorneys and expert witnesses (i.e., PA detractors) would cite the Congressional resolution
+to argue that testimony regarding PA should be rejected and ignored. Also, PA detractors would
+likely use the flawed Congressional resolution as a rallying cry for state legislatures to enact laws con-
+sistent with the notion that PA theory is “scientifically unsound.” If that were to happen, it would
+harm thousands of children and families in the U.S. for many years.
+
+We do not know who or what organization initially encouraged Rep. Meehan to introduce a res-
+olution that wrongly referred to “scientifically unsound theories such as parental alienation syn-
+drome.” However, Joan S. Meier recently cited H. Con. Res. 72 in an amicus brief that discussed
+“Courts’ Improper Reliance on Alienation Theory.” She said, “[a]lienation theory also harms chil-
+dren when it causes a court to remove them from the parent they trust and feel loved by (the ‘attach-
+ment parent’).”©? Then she added, “[i]Jn response to many of these concerns, the U.S. House of
+
+
+--- Page 9 ---
+Bernet/PARENTAL ALIENATION MISINFORMATION 301
+
+Representatives recently unanimously adopted House Concurrent Resolution 72, calling on states to
+improve family court practices to protect children.” It seems likely that two organizations that
+have actively campaigned against the use of PA—the Leadership Council on Child Abuse & Inter-
+personal Violence and the Domestic Violence Legal Empowerment and Appeals Project—instigated
+and promoted the false information in the original version of H. Con. Res. 72. Meier has leadership
+roles in both of those organizations.
+
+VII. MISINFORMATION PROLIFERATION
+
+This article has summarized only a few examples of misinformation regarding PA, with a discus-
+sion of attempts to correct what had been published in the professional literature intended for men-
+tal health and legal professionals. There has been an explosion of false statements regarding PA, so
+here are some additional examples in chronological order:
+
+e National Council of Juvenile and Family Court Judges (2006): “The discredited ‘diagno-
+sis’ of ‘PAS’ (or allegation of ‘parental alienation’), quite apart from its scientific invalid-
+ity, inappropriately asks the court to assume that the children’s behaviors and attitudes
+toward the parent who claims to be ‘alienated’ have no grounding in reality.”®°
+
+e Tom Burton, General Counsel of Justice for Children (2009): “Parental alienation syn-
+drome has been debunked, disproven and discredited by every major group and associa-
+tion involved with child abuse cases.”°°
+
+e Paul Fink (2010): PAS is a “bit of junk science invented by ... Dr. Richard A. Gardner.”
+Also, Fink said that father’s rights groups, “who don’t like to be interfered with when they
+are sexually abusing their children,” petitioned the DSM-5 Task Force to include PAS in
+DSM-S.°”
+
+e Lenore E. Walker and David L. Shapiro (2010): “Gardner had no empirical data to sup-
+port this theory [of PAS], and in fact, self-published his ideas.”**
+
+e Joan S. Meier (2013): “/T]here is actually no empirical research validating the existence
+of parental alienation syndrome.””°?
+
+e Holly Smith (2016): “This Note proposes that parties involved in child custody disputes
+should be educated on the junk science of parental alienation syndrome ....””°
+
+e Domestic Abuse Guidebook for Wisconsin Guardians Ad Litem (2017): “PAS has been
+discredited by the psychiatric profession, and has been routinely deemed by courts and
+mental health professionals as inadmissible in the courtroom in this context.”"'
+
+e Cara Tabachnick (2017): “Just as research has not definitively proved the validity of
+parental alienation, it has not shown that family reunification programs work.”
+
+e Jean Mercer (2019): “PA proponents ... have nevertheless assumed that [visitation resis-
+tance or refusal] (without justified’ causes like physical abuse) is in itself evidence that
+the preferred parent has carried out a campaign of denigration against the nonpreferred
+parent.”
+
+All of these statements are false and can be refuted with documents published by professional
+organizations, empirical research published in peer-reviewed journals, and other authoritative
+resources. It seems like the believers in PA and the detractors of PA are living in two different uni-
+verses. It is important to understand why this level of polarization arises in the first place and pre-
+vails over time.
+
+A. HIGH-CONFLICT PARENTS LEAD TO POLARIZED PROFESSIONALS
+
+The most obvious explanation is that the conflict between domestic violence advocates and PA
+advocates is derived from the high conflict that sometimes occurs between separating and divorcing
+
+
+--- Page 10 ---
+302 FAMILY COURT REVIEW
+
+parents. Perhaps at some point an attorney or a mental health professional became affiliated with a
+victim of domestic violence, so they all adopted the same interpretation of events and became advo-
+cates regarding domestic violence. On the other hand, perhaps a different attorney or mental health
+professional became affiliated with a targeted parent, a victim of parental alienating behaviors, so
+these individuals adopted their own interpretation of events and became advocates regarding
+PA. This is part of the explanation of the polarization between the domestic violence lobby and the
+PA lobby, but it is likely the story is more complicated.
+
+B. FEMINIST CRITICS OF PARENTAL ALIENATION
+
+In an important article, Deirdre C. Rand characterized the groups of critics who oppose the con-
+cept of PAS/PA. She described one of the groups as individuals who “identify themselves as advo-
+cates for abused women and children.”’* Rand explained:
+
+The feminist and child advocate critics are concerned that PAS is being used against mothers, and relied
+on by courts as rationale for giving custody to abusive fathers. ... The feminist and child advocates tend
+to be strong believers in the idea that “children never lie about abuse.” They tend to be in favor of lead-
+ing and suggestive interviews when abuse is suspected based on the belief that children are reluctant to
+disclose. ... These critics deny that a parent can induce a child to make, or go along with, false allega-
+tions of abuse against the other parent.’”°
+
+Rand indicated that the feminist and child advocate critics included Cheri L. Wood, Danielle Isman,
+Carol S. Bruch, Robert Geffner, Steve Ambrose, Joyanna Silberg, Paul Fink, and others. Although
+Rand described a rather bleak, internecine discourse regarding PA, she ended the article on a posi-
+tive note. She specifically cited the special issue of Family Court Review that addressed “Alienated
+Children in Divorce and Separation,” which was published in 2010. Rand said, “[t]he guest editors,
+Barbara Fidler and Nicholas Balas [sic], bring a fresh perspective and there are contributions from
+‘both sides of the aisle.”””°
+
+C. COGNITIVE DISSONANCE
+
+In terms of classical psychological theory, the most obvious explanation for the polarization pervad-
+ing PA scholarship is cognitive dissonance, a well-known mental phenomenon that has been extensively
+studied.”’ Cognitive dissonance is an uncomfortable feeling or tension that is caused by holding con-
+flicting ideas simultaneously. People are highly motivated to reduce or eliminate the tension or stress
+caused by cognitive dissonance. There are several ways to reduce dissonance, such as totally adopting
+one attitude or belief, and totally rejecting the opposing attitude or belief. Some writers and practitioners
+may believe there is serious conflict between domestic violence theory (e.g., “always believe the children
+who describe abuse’) and PA theory (e.g., “sometimes children are not telling the truth when they
+describe abuse”’). Since the stakes are very high in these cases—in both clinical and legal terms—it may
+be very hard for some people to sincerely adopt, “generally believe the children,” and also, “sometimes
+children are manipulated to make false allegations.” Since this seeming contradiction creates tension and
+stress, the principle of cognitive dissonance might cause some individuals to avoid dissonance by gravi-
+tating to one side of the discussion and doubling down on the premises, “always believe the children,”
+and, “ignore the possibility of parental alienation.” Of course, this is not an either/or situation; most
+observers would agree that child abuse occurs and PA also occurs.
+
+D. PARTISANSHIP AND THE PARTISAN BRAIN
+
+In recent years, the phenomenon of cognitive dissonance has become one component of the
+much broader field of study of partisanship. In the general sense, partisanship refers to prejudice or
+
+
+--- Page 11 ---
+Bernet/PARENTAL ALIENATION MISINFORMATION = 303
+
+bias in favor of a particular cause; more specifically, it commonly refers to one’s preference for a particu-
+lar political party. The concept of “the partisan brain” conveys that the inclinations of humans to pick
+sides “have a strong genetic basis, emerge early in life, and manifest in brain structure”’* In other
+words, there were evolutionary forces that prompted early humans to join one group or the other, rather
+than be left alone in the midst of tribal warfare. Nam, Jost, and Van Bavel—scholars who have studied
+the partisan brain—have applied their theory to American politics:
+
+Increasingly, ideological polarization is the norm, and little or no common ground exists between lib-
+erals and conservatives when it comes to social and economic issues such as tax policy, the debt ceiling,
+health care reform, gay marriage, and climate change .... [T]here is growing evidence that differences
+between liberals and conservatives are shaped by psychological variables having to do with personality,
+cognition, emotion, and motivation a?
+
+Nam et al. pointed out that a common method for minimizing cognitive dissonance is selective
+exposure, 1.e., seeking out and accepting information that is compatible with one’s preexisting
+beliefs and avoiding exposure to information that is not compatible. It seems likely that selective
+exposure helps to explain the destructive polarization that occurs between mental health and legal
+professionals who are concerned about domestic violence and those who are concerned about PA.
+
+VII. RECOMMENDATIONS FOR BIPARTISANSHIP
+
+It is important to consider possible ways to reduce the partisanship that damages attempts to
+research important aspects of PA and to educate mental health and legal professionals regarding this
+topic. The approach taken in this article—itemizing examples of misinformation and refuting them
+piece by piece—is perhaps the least efficient way to approach this task. Here are strategies that
+might reduce the polarization in this field:
+
+1. The scholars who have studied the partisan brain have also made suggestions for reducing
+biases related to partisanship. For example, Van Bavel and Pereira recommend having
+access to factual information in order to create accurate beliefs regarding a topic.*° They
+suggest that increasing the level of accuracy reduces partisan bias. With regard to our topic
+of interest, this means encouraging well designed qualitative and quantitative research to
+establish the causes of PA, accurate ways to diagnose it, and suitable interventions.
+
+2. Van Bavel and Pereira also say that “reducing worldview or self-esteem threats by affir-
+ming an individual can open their mind to otherwise threatening information.”*! In terms
+of the issues raised in this article, this suggests that the writers who are very concerned
+about PA should make it clear they are also concerned about domestic violence—and the
+writers who are very concerned about domestic violence should reciprocate.
+
+3. Furthermore, partisanship theory indicates, “[p]rofessional training and guidelines for eval-
+uating evidence fairly can reduce the effect of personal values. For example, judges receive
+training to make legal determinations that are unrelated to their political values, unlike
+members of the general public.’®? Both forensic evaluators and lawyers should learn—
+during their training and also in continuing education—to put aside their biases and focus
+on facts and data. This topic has been addressed specifically with regard to forensic psy-
+chologists, i.e., Neal and Brodsky found that, “evaluators perceived themselves as less vul-
+nerable to bias than their colleagues,” which is called the “bias blind spot.** Neal and
+Brodsky identified strategies to reduce risk, including: “receiving explicit didactic training
+about objectivity,’ “consulting with colleagues,’ “using structured evaluation methods,”
+and “considering alternative hypotheses.”**
+
+4. Another strategy to reduce polarization is to search for common ground, which involves
+acknowledging that both sides of the dispute have shared concerns. For example, writers
+
+99 66
+
+
+--- Page 12 ---
+304 FAMILY COURT REVIEW
+
+and speakers can emphasize that both men and women are victims of parental alienation.
+Also, domestic violence advocates and PA advocates are both concerned about dis-
+tinguishing true and false allegations; domestic violence advocates and PA advocates are
+both concerned about identifying and securing the best interests of children. The author
+previously wrote: At the risk of oversimplification, I say: Domestic violence is a serious
+problem in many families, but sometimes there are false allegations of domestic violence;
+and PA is a serious problem in many families, but sometimes there are false allegations of
+PA. It is incorrect to minimize either issue or to dismiss the topic in a preemptory manner
+by saying that it is junk science or lacks empirical evidence.**
+
+5. It probably would be productive for representatives from both sides of the dispute to work
+together on research projects or on writing tasks. For example, in 2010, Kelly®® and
+Warshak and Otis®’ proposed a large-scale research project regarding PA with a consor-
+tium of researchers with different points of view and different hypotheses, but using com-
+mon methods and research instruments. Also, the development of this special issue of
+Family Court Review is an opportunity for the authors to read each other’s material, give
+constructive feedback, listen carefully, and try to understand each person’s point of view.
+
+6. Collaboration with opponents can also take the form of developing an article or a set of prac-
+tice guidelines together. Most writers in this field distinguish alienation (rejection of a parent
+without a good reason) and estrangement (rejection of a parent for a good reason, such as a
+history of abuse or very deficient parenting). Also, everyone would agree that it is important in
+individual cases to distinguish alienation from estrangement, but there is disagreement on how
+to do that. It would be enlightening for domestic violence advocates and PA advocates to col-
+laborate in creating protocols for distinguishing alienation and estrangement. In fact, several
+members of PASG proposed to do that with the leadership of the American Professional Asso-
+ciation on the Abuse of Children (APSAC), whose members tend to be domestic violence
+advocates. Ultimately, the two organizations did not agree to take on that joint project.
+
+7. Finally, tolerance is essential. In scientific and scholarly discourse, it is bad form to try to
+demolish those who disagree. PASG has adopted the “big tent” approach regarding our mem-
+bership. It is obvious that PASG members do not agree on every aspect of PA theory, but we
+insist on civility and respectfulness. We know that all members have the ultimate goals of
+understanding the causes of PA, how to prevent it, how to identify it, and what to do about it.
+
+It is unclear whether any or all of these proposals would solve the problem presented in this
+paper, i.e., the rampant proliferation of false information regarding PA. It may be that the sides are
+too entrenched to accomplish significant bipartisan activities together. At the present time, the bot-
+tom line is that we live in an age of widespread misinformation. Clinicians, forensic practitioners,
+and legal professionals should remain vigilant when they read articles or listen to presentations
+about topics that might be considered controversial.
+
+ACKNOWLEDGEMENTS
+
+The author appreciates the helpful suggestions of Demosthenes Lorandos, Ph.D., J.D., Judith
+M. Pilla, Ph.D., L.S.W., Deirdre Rand, Ph.D., and Richard A. Warshak, Ph.D.
+
+NOTES
+
+1. Richard A. Gardner, Recent Trends in Divorce and Custody Litigation, 29 Acap. F. 2, 3 (1985).
+
+2. RICHARD A. GARDNER, THE PARENTAL ALIENATION SYNDROME: A GUIDE FOR MENTAL HEALTH AND LEGAL PROFESSIONALS
+64-82 (2nd ed. 1992).
+
+3. Joan B. Kelly & Janet R. Johnston, The Alienated Child: A Reformulation of Parental Alienation Syndrome, 39 Fam.
+Cr. Rev. 249, 254 (2001).
+
+
+--- Page 13 ---
+Bernet/PARENTAL ALIENATION MISINFORMATION 305
+
+4. Demosthenes Lorandos et al., Overview of Parental Alienation, in PARENTAL ALIENATION: THE HANDBOOK FOR MENTAL
+HEALTH AND LEGAL PROFESSIONALS 5 (Demosthenes Lorandos et al. eds., 2013).
+
+5. CLARE DALTON ET AL., NAVIGATING CusToDY & VISITATION EVALUATIONS IN CASES WITH DOMESTIC VIOLENCE: A JUDGE’S
+GuIbE 24 (rev. 2006).
+
+6. Joan S. Meier, A Historical Perspective on Parental Alienation Syndrome and Parental Alienation, 6 J. CuiLp Custopy
+232, 247 (2009).
+
+7. G. ANDREW H. BENJAMIN ET AL., FAMILY EVALUATION IN CusTopy LITIGATION: PROMOTING OPTIMAL OUTCOMES AND REDUC-
+ING Eruicac Risks 34 (2d ed. 2018).
+
+8. Typical diagnoses in the Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-5), are referred
+to as “mental disorders.” However, relational problems and problems related to abuse and neglect are referred to as “mental
+conditions.” Thus, cases involving PA can be identified with three mental conditions found in DSM-S: child affected by
+parental relationship distress, parent-child relational problem, and child psychological abuse.
+
+9. Parental Alienation Study Group is an international organization with 700 members from over fifty countries. See
+www.pasg.info.
+
+10. Norstepts Juripik, https://www.nj.se/ (last visited June 4, 2019).
+
+11. CuristiAN Diesen & Eva Diksen, OVERGREPP MOT KVINNOR OCH BARN: DEN RATTSLIGA HANTERINGEN [ABUSE OF WOMEN AND
+CuILDREN: THE LEGAL MANAGEMENT] 170 (Lena Hellblom-Sjégren trans. 2013) (“Misstanken att médrar, vanligen i samband
+med vardnadstvister, anklagar den f.d. partnern for sexuella 6vergrepp mot barnen ... har frambringat en kvasivetenskaplig
+teori som kallas PAS, parental alienation syndrome. Teorin, som lanserades av den amerikanske barnpsykiatern Richard
+Gardner (as anhangare av pedofili) ...””).
+
+12. See RicHarD A. GARDNER ET AL., THE INTERNATIONAL HANDBOOK OF PARENTAL ALIENATION SYNDROME: CONCEPTUAL,
+CLINICAL AND LEGAL CONSIDERATIONS (2006); William Bernet et al., Parental Alienation, DSM-5, and ICD-11, 38 Am. J. OF
+Fam. THERAPY (2010); DEMOSTHENES LORANDOS ET AL., PARENTAL ALIENATION: THE HANDBOOK FOR MENTAL HEALTH AND LEGAL
+PROFESSIONALS (2013); DEMOSTHENES LoRANDOS & WILLIAM BERNET, PARENTAL ALIENATION — SCIENCE AND Law (forthcom-
+ing 2020).
+
+13. See Martun Icks & Eric SHIRAEV, CHARACTER ASSASSINATION THROUGHOUT THE AGES (2014).
+
+14. Email from Olov Sundstrém, CEO, Norstedts Jurikik AB, to Demosthenes Lorandos (November 22, 2013) (on file
+with author).
+
+15. Letter from Emma Svennerstam, Legal Counsel, Vice-Chancellor’s Office, Stockholm University, to Demosthenes
+Lorandos, Ph.D., J.D. (May 26, 2014) (on file with author).
+
+16. William Bernet et al., An Objective Measure of Splitting in Parental Alienation: The Parental Acceptance-Rejection
+Questionnaire, 63 J. Forensic Sci. 776 (2018).
+
+17. Vincenzo Puppo, Commentary On: An Objective Measure of Splitting in Parental Alienation: The Parental
+Acceptance-Rejection Questionnaire, 63 J. Forensic Sci. 342 (2018).
+
+18. William Beret, Author’s Response, 63 J. Forensic Sct. 343 (2018).
+
+19. Puppo, supra note 17, at 342.
+
+20. Michael Saini et al., Empirical Studies of Alienation, in PARENTING PLAN EVALUATIONS: APPLIED RESEARCH FOR THE FAM-
+ity Court 374 (Leslie Drozd, Michael Saini & Nancy Olesen eds., 2d ed. 2016).
+
+21. Puppo, supra note 17, at 342.
+
+22. Pamela S. Ludolph, Child Custody Evaluation, in PRINCIPLES AND PRACTICE OF CHILD AND ADOLESCENT FoRENSIC MEN-
+TAL HEALTH 154 (Elissa P. Benedek, Peter Ash & Charles L. Scott eds., 2010) (“Gardner initially described the parental alien-
+ation syndrome, by which one parent, usually the mother, actively campaigned against the other to alienate the child.”).
+
+23. Virginiae Blackmon, Parental Alienation Syndrome, 3 SALEM HEALTH: PsycHoLoGy & MENTAL HEALTH 1349, 1349
+(Nancy A. Piotrowski ed., 2010) (“Parental alienation syndrome is the systematic denigration of one parent by the other with
+the intent of alienating the child against the other parent, with no justification.”).
+
+24. Jessica Troilo & Jessica Hilling, Parental Alienation, in 2 CULTURAL SocioLoGy oF Divorce: AN ENCYCLOPEDIA
+937 (Robert E. Emery ed., 2013) (defining PA as “a deliberate attempt on the part of one parent to distance his or her child
+from the other parent”).
+
+25. Philip M. Stahl, Conducting Child Custody and Parenting Evaluations, in THe HANDBOOK OF FORENSIC PSYCHOLOGY
+137 (Irving B. Weiner & Randy K. Otto eds., 4th ed. 2014) (discussing several aspects of PA in the section “Alienated
+Children”).
+
+26. William Bernet, Parental Alienation, in Witey ENCYCLOPEDIA OF Forensic SclENcE (Allan Jamieson & Andre
+A. Moenssens eds., 2015) (stating, “[t]his article summarizes parental alienation, a child’s rejection of an appropriate parent
+in the context of a high-conflict divorce”).
+
+27. William Beret, Parental Alienation, in THE ENCYCLOPEDIA OF CLINICAL PsycHoLocy (Robin L. Cautin & Scott
+O. Lilienfeld eds., 2015) (stating, “[p]arental alienation is a mental condition in which a child—usually one whose parents
+are engaged in a high-conflict separation or divorce—allies himself or herself strongly with one parent (the preferred parent)
+and rejects a relationship with the other parent (the alienated parent) without legitimate justification’’).
+
+28. William Bernet, Child Maltreatment, in 2 COMPREHENSIVE TEXTBOOK OF PSYCHIATRY 3829 (Benjamin J. Sadock, Vir-
+ginia A. Sadock & Pedro Ruiz eds., 10th ed. 2017) (“In contentious divorces, one of the parents may indoctrinate the child
+to fear or dislike the other parent, thus causing parental alienation between the child and the rejected parent.”).
+
+
+--- Page 14 ---
+306 FAMILY COURT REVIEW
+
+29. Suzanne M. Dupée, Child Abuse and Neglect, in PRINCIPLES AND PRACTICE OF ForENSIC PsycuHIATRY 398 (Richard
+Rosner & Charles L. Scott eds., 3nd ed. 2017) (“The primary manifestation of parental alienation is the child’s unjustified
+campaign of denigration against a parent resulting from the combination of a programming (brainwashing) parent’s indoctri-
+nations and the child’s own contributions to the vilification of the target parent.”).
+
+30. Miguel Clemente & Dolores Padilla-Racero, Are Children Susceptible to Manipulation? The Best Interest of Children
+and Their Testimony, 51 CuiLp. & Youtu Serv. Rev. 101, 101 (2015).
+
+31. Id.
+
+32. Anne-Wil Harzing, Publish or Perish, HARzING.com (Jan. 1, 2020, 4:09 PM) http://www.harzing.com/pop.htm.
+
+33. Clemente & Padilla-Racero, supra note 30, at 102.
+
+34. Richard A. Gardner, Differentiating between Parental Alienation Syndrome and Bona Fide Abuse—Neglect, 27 Am.
+J. Fam. THERAPY 97 (1999).
+
+35. Gardner, supra note 1, at 3.
+
+36. Gardner, supra note 2, at 61.
+
+37. Clemente & Padilla-Racero, supra note 30, at 102.
+
+38. William Bernet, et al., Yes, Children Are Susceptible to Manipulation: Commentary on Article by Clemente and
+Padilla-Racero, 56 Cuitp. & Youtu Serv. Rev. 135 (2015).
+
+39, BENJAMIN ET AL., supra note 7, at 34.
+
+40. William Bernet et al., Parental Alienation, DSM-V, and ICD-11, 38 Am. J. Fam. THERAPY 76, 80 (2010).
+
+41. Gardner, supra note 1.
+
+42. BERNET ET AL., supra note 40, at 187.
+
+43. Email from Deanne M. Ottaviano, General Counsel, American Psychological Association, to William Beret
+(October 2, 2018) (on file with author).
+
+44. Id.
+
+45. BENJAMIN ET AL., supra note 7, at 34.
+
+46. See Dalton et al., supra note 5; Parental Alienation Database, VANDERBILT UNIveRsITY MEDICAL CENTER, WWw.mc.
+vanderbilt.edu/pasg (last visited June 8, 2019).
+
+47. BENJAMIN ET AL., supra note 7, at 35.
+
+48. Demosthenes Lorandos, Parental Alienation in U.S. Courts, 1985 to 2018, 58 Fam. Cr. Rev. (2020), 322-339.
+
+49. BENJAMIN ET AL., supra note 7, at 35.
+
+50. Practice Parameters for Child Custody Evaluations, 36 J. AM. ACAD. CHILD & ADOLESCENT PsycHIATRY 57S, 59S
+(1997) (stating, “[t]here are times during a custody dispute when a child can become extremely hostile toward one of the par-
+ents. ... The evaluator must assess this apparent alienation and form a hypothesis of its origins and meaning.”).
+
+51. ASSOCIATION OF FAMILY AND CONCILIATION CourTS, RECOMMENDATIONS FOR COMPREHENSIVE TRAINING OF PARENTING Coor-
+DINATORS 3 (2019) (referring to the “continuum of parent-child contact problems (e.g., affinity, alignments, realistic estrange-
+ment, alienation, hybrid) and levels of severity in cases involving resist-refuse dynamics”).
+
+52. George J. Cohen et al., Helping Children and Families Deal with Divorce and Separation, 138 Pepiatrics 3 (2016)
+(“Alienation of the child and the targeted parent is a frequent problem that needs practical professional input to correct the
+negative effects on all parties.’”).
+
+53. AMERICAN PROFESSIONAL SOCIETY ON THE ABUSE OF CHILDREN, POSITION PAPER ON ALLEGATIONS OF CHILD MALTREATMENT
+AND INTIMATE PARTNER VIOLENCE IN DivorcE/PARENTAL RELATIONSHIP DISSOLUTION 4 (2016) (“If interpersonal violence is deter-
+mined unlikely, one possible explanation for the false allegation may be an attempt to alienate the child from a parent. ...
+Such indoctrination is a form of psychological maltreatment.”).
+
+54. BENJAMIN ET AL., supra note 7, at 35.
+
+55. Id. at 36.
+
+56. See STEPHEN J. CecI & MacaiE Bruck, JEOPARDY IN THE COURTROOM: A SCIENTIFIC STUDY OF CHILDREN’S TESTIMONY
+(1995); RoBERT CIALDINI, INFLUENCE: THE PSYCHOLOGY OF PERSUASION (2007); STANLEY S. CLAWAR & BRYNNE V. RIVLIN, CHIL-
+DREN HELD HostaGE: IDENTIFYING BRAINWASHED CHILDREN, PRESENTING A CASE, AND CRAFTING SOLUTIONS (2nd ed. 2013).
+
+57. BENJAMIN ET AL., supra note 7, at 36.
+
+58. American Psychological Association, Guidelines for the Practice of Parenting Coordination, 67 AM. PsycHOoL.
+63, 65 (2012).
+
+59. Marc J. Ackerman & Jonathan W. Gould, Child Custody and Access, in 1 APA HanpDBooK OF ForENSIC PsyCHOLOGY
+454 (Brian L. Cutler & Patricia A. Zapf eds., 2015).
+
+60. American Psychological Association, APA DicTIONARY OF PsycHoLocy (2nd ed.), https://dictionary.apa.org/parental-
+alienation-syndrome (last visited March 27, 2019).
+
+61. H.R. Con. Res. 72, 115th Cong. (2017) (on file with author).
+
+62. H.R. Con. Res. 72, 115th Cong. (2018) (enacted).
+
+63. Brief for Domestic Violence Legal Empowerment and Appeals Project et al. as Amici Curiae Supporting Plaintiff-
+Appellant, at 21, Anonymous v. Anonymous and Anonymous (N.Y. 2019).
+
+64. Id. at 22.
+
+65. DALTON ET AL., supra note 5.
+
+
+--- Page 15 ---
+Bernet/PARENTAL ALIENATION MISINFORMATION 307
+
+66. John Hrabe, Justice for Children Warning: Do not Fall for Discredited “Parental Alienation Syndrome Day,” THE
+GENOCIDE OF BATTERED MOTHERS AND THEIR CHILDREN (April 18, 2011, 4:04 PM), https://angelzfury.wordpress.com/201 1/04/
+18/justice-for-children-warning-dont-fall-for-discredited-parental-alienation-syndrome-day-april-25th/.
+
+67. Paul J. Fink, Fink! Still at Large, CLINICAL PsycHiaTRy News, March 2010, at 6.
+
+68. Lenore E. Walker & David L. Shapiro, Parental Alienation Disorder: Why Label Children with a Mental Diagnosis?,
+7 J. Cuitp Custopy 266, 275 (2010).
+
+69. Joan S. Meier, Parental Alienation Syndrome and Parental Alienation: A Research Review, NATIONAL ONLINE
+RESOURCE CENTER ON VIOLENCE AGAINST WOMEN, September 2013, at 1, 4.
+
+70. Holly Smith, Parental Alienation Syndrome: Fact or Fiction? The Problem with Its Use in Child Custody Cases,
+11 U. Mass. L. Rev. 64, 64 (2016).
+
+71. GovERNor’s CouNcIL ON Domestic ABUSE & END Domestic ABUSE WISCONSIN, Domestic ABUSE GUIDEBOOK FOR WIs-
+CONSIN GUARDIANS AD LITEM: ADDRESSING CuSTODY, PLACEMENT, AND SAFETY IssuEs 132 (2017).
+
+72. Cara Tabachnick, A Divorced Dad, Estranged Kids and a Controversial Plan to Bring Them Together, Wasu. Post
+Macazine, May 14, 2017.
+
+73. Jean Mercer, Are Intensive Parental Alienation Treatments Effective and Safe for Children and Adolescents?,
+16 J. Cr_p Custopy 95 (2019).
+
+74. Deirdre C. Rand, Parental Alienation Critics and the Politics of Science, 39 AM. J. FAM. THERAPY 48, 49 (2011).
+
+75. Id. at 53-54.
+
+76. Id. at 65.
+
+77. LEON FESTINGER, A THEORY OF COGNITIVE DISSONANCE (1957); JUDSON Mitts & Eppie Harmon-JoNnes, CoGNitivE Disso-
+NANCE: PROGRESS ON A PIVOTAL THEORY IN SOCIAL PsycHoLocy (1999).
+
+78. Jay J. Van Bavel & Andrea Pereira, The Partisan Brain: An Identity-Based Model of Political Belief, 22 TRENDs Coc-
+NITIVE Scr. 213, 214 (2018) (citations omitted).
+
+79. H. Hannah Nam et al., “Not for All the Tea in China!” Political Ideology and the Avoidance of Dissonance-Arousing
+Situations, 8 PLos OnE (April 19, 2013), https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0059837.
+
+80. Van Bavel & Pereira, supra note 78, at 219.
+
+81. 7d.
+
+82. Id. at 220.
+
+83. Tess M.S. Neal & Stanley L. Brodsky, Forensic Psychologists’ Perceptions of Bias and Potential Correction Strate-
+gies in Forensic Mental Health Evaluations, 22 Psycuou. Pus. Pow’y & L. 58, 58 (2016).
+
+84. Id. at 72.
+
+85. William Bernet, Parental Alienation: Misinformation Versus Facts, 54 Jupces’ J. 23, 27 (2015).
+
+86. Joan B. Kelly, Commentary on “Family Bridges: Using Insights from Social Science to Reconnect Parents and Alien-
+ated Children, 48 Fam. Cr. Rev. 81 (2010).
+
+87. Richard A. Warshak & Mark R. Otis, Helping Alienated Children with Family Bridges: Practice, Research, and the
+Pursuit of “Humbition,” 48 Fam. Cr. Rev. 91 (2010).
+
+William Bernet, M.D., a professor emeritus at Vanderbilt University School of Medicine, has testified as an expert in
+forensic psychiatry about 300 times in twenty-four states. In 2007, Dr. Bernet and Judge Don R. Ash published Chil-
+dren of Divorce: A Practical Guide for Parents, Therapists, Attorneys, and Judges. Dr. Bernet edited Parental Alien-
+ation, DSM-5, and ICD-11, which was published in 2010. Dr. Bernet and his colleagues edited Parental Alienation:
+The Handbook for Mental Health and Legal Professionals, which was published in 2013. Dr. Bernet and
+Dr. Demosthenes Lorandos edited Parental Alienation — Science and Law, which will be published in 2020. He was
+the founder and first president of the Parental Alienation Study Group.
