@@ -1,0 +1,30 @@
+As amended through November 30, 2022
+Rule 26 - Discovery
+Discovery in courts of limited jurisdiction shall be permitted as follows:
+
+(a) Specification of Damages. A party may demand a specification of damages under RCW 4.28.360.
+(b) Interrogatories and Requests for Production.
+(1) The following interrogatories may be submitted by any party:
+(A) State the amount of general damages being claimed.
+(B) State each item of special damages being claimed and the amount thereof.
+(C) List the name, address, and telephone number of each person having any knowledge of facts regarding liability.
+(D) List the name, address, and telephone number of each person having any knowledge of facts regarding the damages claimed.
+(E) List the name, address and telephone number of each expert you intend to call as a witness at trial. For each expert, state the subject matter on which the expert is expected to testify. State the substance of the facts and opinions to which the expert is expected to testify and a summary of the grounds for each opinion.
+(2) In addition to section (b)(1), any party may serve upon any other party not more than two sets of written interrogatories containing not more than 20 questions per set without prior permission of the court. Separate sections, paragraphs or categories contained within one interrogatory shall be considered separate questions for the purpose of this rule. The interrogatories shall conform to the provisions of CR 33.
+(3) The following requests for production may be submitted by any party:
+(A) Produce a copy of any insurance agreement under which any person carrying on an insurance business may be liable to satisfy part or all of any judgment which may be entered in this action, or to indemnify or reimburse the payments made to satisfy the judgment.
+(B) Produce a copy of any agreement, contract or other document upon which this claim is being made.
+(C) Produce a copy of any bill or estimate for items for which special damage is being claimed.
+(4) In addition to section (b)(3), any party may submit to any other party a request for production of up to five separate sets of groups of documents or things without prior permission of the court. The requests for production shall conform to the provisions of CR 34.
+(c) Depositions.
+(1) A party may take the deposition of any other party, unless the court orders otherwise.
+(2) Each party may take the deposition of two additional persons without prior permission of the court. The deposition shall conform to the provisions of CR 30.
+(d) Requests for Admission.
+(1) A party may serve upon any other party up to 15 written requests for admission without prior permission of the court. Separate sections, paragraphs or categories contained within one request for admission shall be considered separate requests for purposes of this rule.
+(2) The requests for admission shall conform to the provisions of CR 36.
+(e) Other Discovery at Discretion of Court. No additional discovery shall be allowed, except as the court may order. The court shall have discretion to decide whether to permit any additional discovery. In exercising such discretion the court shall consider (1) whether all parties are represented by counsel, (2) whether undue expense or delay in bringing the case to trial will result and (3) whether the interests of justice will be promoted.
+(f) How Discovery to Be Conducted. Any discovery authorized pursuant to this rule shall be conducted in accordance with Superior Court Civil Rules 26 through 37, as governed by CRLJ 26.
+(g) Time for Discovery. Twenty-one days after the service of the summons and complaint, or counterclaim, or cross complaint, the served party may demand the discovery set forth in sections (a)-(d) of this rule, or request additional discovery pursuant to section (e) of this rule.
+Wash. R. Ct. Lim. Juri. 26
+
+Amended effective 9/1/1994;9/1/1999;9/1/2005;9/1/2016.

@@ -1,0 +1,39 @@
+In re Welfare of C.S., 225 P.3d 953, 954 (Wash. 2010):
+    "¶ 6 A biological parent has fundamental liberty and privacy interests in raising his or her child, and the State can infringe upon those interests only when the parent is endangering the child's physical or emotional welfare."
+
+RCW 34.05.526
+Appellate review by supreme court or court of appeals.
+An aggrieved party may secure appellate review of any final judgment of the superior court under this chapter by the supreme court or the court of appeals. The review shall be secured in the manner provided by law for review of superior court decisions in other civil cases.
+
+RCW 34.05.530 Standing.
+A person has standing to obtain judicial review of agency action if that person is aggrieved or adversely affected by the agency action. A person is aggrieved or adversely affected within the meaning of this section only when all three of the following conditions are present:
+(1) The agency action has prejudiced or is likely to prejudice that person;
+(2) That person's asserted interests are among those that the agency was required to consider when it engaged in the agency action challenged; and
+(3) A judgment in favor of that person would substantially eliminate or redress the prejudice to that person caused or likely to be caused by the agency action.
+
+Rule 60(b) Grounds for Relief from a Final Judgment, Order, or Proceeding. On motion and just terms, the court may relieve a party or its legal representative from a final judgment, order, or proceeding for the following reasons:
+(2) newly discovered evidence that, with reasonable diligence, could not have been discovered in time to move for a new trial under Rule 59(b);
+(5) the judgment has been satisfied, released, or discharged; it is based on an earlier judgment that has been reversed or vacated; or applying it prospectively is no longer equitable; or
+(6) any other reason that justifies relief.
+
+RCW 26.18.020(5) "Duty of support" means the duty to provide for the needs of a dependent child, which may include necessary food, clothing, shelter, education, and health care. The duty includes any obligation to make monetary payments, to pay expenses, including maintenance in cases in which there is a dependent child, or to reimburse another person or an agency for the cost of necessary support furnished a dependent child. The duty may be imposed by court order, by operation of law, or otherwise.
+(13) "Obligor" means the person owing a duty of support or duty of maintenance.
+
+RCW 74.20A.020(4) "Support obligation" means the obligation to provide for the necessary care, support, and maintenance, including medical expenses, of a dependent child or other person as required by statutes and the common law of this or another state.
+
+What legal defenses are available to a noncustodial parent when DCS seeks to enforce a support obligation?
+Wash. Admin. Code § 388-14A-3370(b) The existence of a superior court order, tribal court order, or administrative order that sets the NCP's support obligation or specifically relieves the NCP of a support obligation for the child(ren) named in the notice;
+
+RCW 26.33.090(4) If the court approves the petition, it shall award custody of the child to the department, agency, or prospective adoptive parent, who shall be appointed legal guardian. The legal guardian shall be financially responsible for support of the child until further order of the court. The court shall also enter an order pursuant to RCW 26.33.130 terminating the parent-child relationship of the parent and the child.
+
+RCW 26.33.130(2) An order terminating the parent-child relationship divests the parent and the child of all legal rights, powers, privileges, immunities, duties, and obligations with respect to each other except past-due child support obligations owed by the parent.
+
+5/1/2023 at 8:30:00 
+
+  69 	01/25/2016 	STFJG - Satisfaction of Judgment 
+  73 	04/17/2023 	OTHER - Other 
+  68 	09/20/2013 	ORS - Order for Support 
+  74 	04/17/2023 	NTMTDK - Note for Motion Docket 
+  75 	04/19/2023 	MT - Motion 
+  76 	04/25/2023 	SEALFN - Sealed Financial Source Document(s)
+  77 	04/25/2023 	OTHER - Other 
