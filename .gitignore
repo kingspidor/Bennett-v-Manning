@@ -1,2 +1,5 @@
 .sh
 .py
+*.sh
+pdf_dedup.py
+pdf_ocr.py
