@@ -1,0 +1,25 @@
+#,Category,Error Description,Rule/Statute,Source Document,Key Evidence
+1,Law,Ex Post Facto: Applied 2022 law to June 2022 conduct,Former RCW 26.50,DVPO Order,"VRP transcript showing judge acknowledged new law ""starts today"""
+2,Law,Intent Paradox: Issued DVPO despite finding no intent to harass,RCW 7.105.010,VRP (DVPO),"Judge: ""I didn't find... conduct was designed to alarm, annoy, or harass"""
+3,Law,"Judicial Estoppel: Allowed 7-day ""relevance"" flip-flop by counsel",Estoppel Doctrine,Respondent SJ Motion,"May 22, 2024 Supreme Court filing vs. May 29, 2024 Superior Court filing"
+4,Law,Collateral Estoppel: Barred claims explicitly excluded from DVPO,Res Judicata,"Opinion p. 5, 8","DVPO transcript: ""beyond the scope of why we're here"""
+5,Law,Discovery Denial: Ruled discovery rules N/A to protection orders,RCW 7.105.200(7),Discovery Order,Judge's erroneous ruling contradicting statute
+6,Law,Civil/Criminal Conflation: Treated civil torts as criminal prosecution,SMJ Standards,Opinion p. 2,"SJ Order: ""no lawful basis as an individual to bring criminal prosecutorial action"""
+7,Fact,"The 11-Year Silence: Found ""no contact"" despite 2011 visit & calls",ER 201(b),"Opinion p. 1, 10","June 12, 2011 filmed visit + 2010-2011 call logs (Exhibit A)"
+8,Fact,Abandonment Paradox: Mutually exclusive findings in 2008,RCW 26.27.021(1),2008 Findings,"""ABANDONED"" vs. ""THREATENING TO REMOVE"" in same document"
+9,Fact,Admission by Silence: Ignored Manning's 2008 admission of calls,Evidence Rule,2008 Declaration,"Manning swore Bennett called ""couple times per week"""
+10,Proc,Precedent Violation: Commissioners issued final indigency denials,RAP 15.2(d),84951-4-I Precedent,Commissioners Koh/Kanazawa denied instead of forwarding to Supreme Court
+11,Proc,Indigency Trap: Penalized appellant for record court blocked,Due Process,"Opinion p. 3, FN 1","Dec 2, 2024 ruling vs. Dec 4, 2024 Statement of Arrangements"
+12,Proc,CR 8(d) Admission: Ignored Manning's failure to respond,CR 8(d),Motion to Supp,"Nov 24, 2025 order to respond; Manning silent through Dec 1 deadline"
+13,Proc,ER 201 Violation: Refused to notice indisputable file contents,ER 201(d),Exhibits A & B,Court admitted exhibits then ignored their contents
+14,Proc,Standard of Review Contradiction: Promised de novo but used procedural bar,Standard of Review,"Opinion p. 3-4, FN 2","Page 3: ""de novo review"" vs. Page 4: ""decline to review"" due to missing record"
+15,Proc,"Commissioner's ""Deeming"" Error: Wrongly presumed intent not to provide record",Due Process,"Dec 2, 2024 Ruling","Commissioner ""deemed"" no intent despite indigency explanation"
+16,Proc,Pending Motions: Opinion issued with unresolved motions,Due Process,Docket 87007-6-I,Motion for Reconsideration of Commissioners' rulings pending
+17,Proc,Discovery Stay: Granted SJ with outstanding Motion to Compel,CR 56(f),SJ Order,Motion to Compel pending 57 days (5/7/2024 - 7/3/2024)
+18,Proc,No Findings: Denied sanctions/strikes without explanation,Due Process,7/2/24 Order,Bare denial without required CR 52 findings
+19,Ethic,RPC 3.3 Violation: Counsel lied about contact logs in possession,RPC 3.3(a),SJ Declaration,"Possessed 2011 video since 2/2024 but claimed ""no contact"""
+20,Ethic,Privacy Act: Admitted unauthorized Yahoo chat downloads,RCW 9.73.030,DVRP Exhibit List,"Manning admitted ""joined conversation"" to download"
+21,Ethic,Fraud in Inducement: Relied on unexecuted 2013 Agreement,Contract Fraud,2013 Agreement,Never signed by judge; Section 1.1 unenforceable
+22,Ethic,"""Best Interest"" Inducement Fraud: Used ""best interest"" finding to induce relinquishment",Fraud Doctrine,2013 Agreement §3.1,"Found contact ""in best interest"" then claimed threat for DVPO"
+23,Ethic,Support Contradiction: Claimed termination yet sought support,Estoppel,DCS Records,Filed for support after claiming rights terminated
+24,Admin,Failure to Serve Proposed Order: SJ order emailed to bailiff without service,CR 56(c),SJ Hearing,Deprived Bennett of opportunity to object to inaccuracies

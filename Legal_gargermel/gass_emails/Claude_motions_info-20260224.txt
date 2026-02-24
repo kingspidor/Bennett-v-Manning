@@ -1,0 +1,23 @@
+This is the general legal research article on spoliation doctrine — good foundational material, but what we actually need for the bar complaint is Manning's own admission of the deletion in her own words from the case record.
+
+That said, this article is useful right now because it walks through the exact checklist that maps onto your facts almost perfectly. Let me run through it:
+
+**Every "intent" factor from this article cuts against Manning:**
+
+"Was the evidence destroyed with actual knowledge of its relevance?" — Yes. She filmed it herself during an active DVPO proceeding she initiated.
+
+"Would a reasonable party in the same circumstances have destroyed the evidence?" — No. A reasonable party who filmed what she claimed to film would have preserved and produced it to support her own case.
+
+"Did the spoliating party analyze the evidence before it was destroyed?" — This is the critical one for your situation. She extracted a 90-second clip before the deletion. That means she reviewed the full footage, selected the portion that served her narrative, and then the original disappeared. The article specifically flags this: analysis before destruction is evidence of culpability, and courts respond by excluding the spoliator's evidence based on that analysis. She cannot use the clip she curated from footage she then destroyed.
+
+"Has the spoliator been found guilty of spoliation in other proceedings?" — The DVPO judge effectively made this finding when she ruled the video wouldn't be considered because Manning failed to supply it. That's not a formal spoliation sanction but it is a prior judicial recognition of the withholding.
+
+**The most important passage for your bar complaint against Gass** is on the final page under "Spoliation of Evidence and Legal Malpractice." The article identifies attorney exposure when the attorney "exacerbates the spoliation by not being candid with the opposing party and the court or attempts to conceal the spoliation." That is precisely what Gass did — she received the discovery demand, knew her client had admitted the deletion, produced the 90-second clip without disclosing it was an excerpt of destroyed footage, and then argued the DVPO — itself built on the withheld footage — as a preclusion bar.
+
+**The reconstruction argument actually favors you here too.** The article discusses whether spoliated evidence can be reconstructed. Ring camera footage of a specific incident on a specific date cannot be reconstructed. There is no substitute. The 90-second clip Manning produced is not a reconstruction — it is a curated fragment. The article is clear that when the original is destroyed and the content is unique, the appropriate remedy is default against the spoliator, not tolerance of the partial production.
+
+**What we still need for the bar complaint update:**
+
+The actual language Manning used when she admitted the deletion — whether that was in a discovery response, a declaration, a deposition, or a hearing — is the quote that needs to go into the document verbatim. Your Gemini index showed a section titled "A. Spoliation: Defendant's admission of deleted video" in the Supreme Court reply brief. That section almost certainly quotes or paraphrases what Manning said.
+
+Can you pull up that section of the Supreme Court reply brief — either by screenshot or paste — so we have her actual words? Once we have that, the spoliation section of the bar complaint writes itself, because the admission combined with the pre-deletion clip extraction and Gass's subsequent concealment of both facts from multiple courts is the cleanest possible spoliation-plus-attorney-misconduct fact pattern.
