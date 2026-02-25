@@ -1,0 +1,74 @@
+MEMORANDUM FOR ATTORNEY CONSULTATION RE: Bennett v. Manning – Forensic Evidence of 16-Year Document Fraud & RICO Pattern
+Date: February 24, 2026
+From: Pro Se Litigant (Zackariah Jeremiah Bennett)
+Re: Immediate Consultation Regarding Criminal Fraud, CR 60(b) Relief, and Civil Rights Action
+
+EXECUTIVE SUMMARY
+This case presents documented forensic evidence of systematic court fraud spanning 16 years, committed by or through a single law firm (O.W. Hollowell & Associates, now solely owned by Nancy A. Gass, WSBA #49685). The fraud originated with the physical substitution of pages in a 2008 ex parte restraining order, creating legal impossibilities that cascaded through every subsequent judgment. The same firm is now implicated in spoliation of evidence (2022), subornation of perjury (2023-2024), and obstruction of justice (contradictory filings within 7 days).
+
+Primary Relief Sought:
+1. CR 60(b)(3) & (4) Motion to Vacate the 2008 judgment as void ab initio due to fraudulent document assembly.
+2. 42 U.S.C. § 1983 Civil Rights Complaint (9th Circuit) for structural due process violations.
+3. RICO Complaint (18 U.S.C. § 1962) for a pattern of racketeering through document fraud.
+4. WSBA Complaint against Nancy Gass for violations of RPC 3.3 and 8.4.
+
+I. THE 2008 ORIGIN DOCUMENT: FORENSIC IMPOSSIBILITIES
+Case: King County Superior Court No. 08-3-03956-4 SEA
+Document: Motion/Declaration for Ex Parte Restraining Order (filed May 29, 2008)
+
+A. The "Payload Page" Anomaly (Page 2)
+Forensic Finding: Page 2 is the ONLY page in the Hollowell firm’s filing corpus (across all reviewed cases) lacking the firm’s footer and pleading paper formatting. It is visually and forensically distinct from Pages 1, 3, and 4.
+
+Legal Significance of Page 2 Content: Page 2 contains the entire operative mechanism of the fraud:
+- Restraint of both Zackariah Bennett and Kelly J. Bennett from removing the child.
+- "Father's visitation: None".
+- "Mother's visitation: Reasonable unlimited visitation".
+- "Orders child support" (entered ex parte, without notice or hearing).
+- Demand that both parents appear and show cause.
+
+The Impossibility: Page 2 restrains Kelly J. Bennett. Page 4 (the Joinder) has Kelly signing as "Respondent Kelly J. Bennett, join in this motion." A respondent cannot legally join a motion that restrains her and seeks relief against her. This is a facial jurisdictional and logical defect.
+
+B. The "Swapped Signature" Anomaly (Page 4)
+Forensic Finding: Page 4 contains a signature block that creates a structural legal impossibility:
+- Caption (Page 1): Lists Kelly as "Respondent" (adverse party).
+- Page 4 Signature: "I, Respondent Kelly J. Bennett, join in this motion".
+
+Legal Effect: This created the false illusion that Kelly consented to the restraint against herself and her husband, eliminating the need for an adversarial process and allowing the entry of a default judgment on August 12, 2008.
+
+Physical Evidence of Tampering:
+- Paper fiber orientation on Page 4 differs from Pages 1-3 (horizontal vs. vertical patterns).
+- Ink absorption inconsistent (Page 4 shows digital/flat ink characteristics; Pages 1-3 show laser-print absorption).
+- Handwritten dates "5-28-08" on Pages 3 and 4 were executed with different writing instruments.
+
+II. THE CONTINUING ENTERPRISE: HOLLOWELL → GASS
+Critical Connection: O.W. Hollowell & Associates (the firm that prepared the fraudulent 2008 document) is now solely owned by Nancy A. Gass (WSBA #49685), the attorney who currently represents Manning and who committed the 2022-2024 misconduct.
+
+Pattern of Racketeering (18 U.S.C. § 1962):
+- May 2008: Document fraud (Page 2 insertion, Page 4 swap).
+- Nov 2008: Perjured declaration (Manning admitted phone calls existed 9 days before an abandonment finding).
+- 2013: Fraud in the inducement (unexecuted Communication Agreement used to induce relinquishment).
+- 2022: Spoliation of evidence (Admission of 30-day Ring camera deletion policy while in active litigation).
+- 2024: Obstruction of justice (Claiming evidence "not relevant" to Supreme Court, then "already adjudicated" to Superior Court 7 days later).
+
+III. THE "INVERTED BURDEN" THEORY: STRUCTURAL DUE PROCESS DENIAL
+The courts systematically inverted mandatory procedural protections, requiring the indigent pro se father to carry burdens assigned to opposing parties:
+- Summary Judgment Inversion (CR 56): Court treated Manning’s "11-year silence" narrative as undisputed despite Exhibit A proving 2010-2011 calls and a June 12, 2011 visit (which Manning filmed).
+- De Novo Review Inversion: Court of Appeals promised de novo review but applied a procedural bar due to missing transcripts—transcripts that were unavailable because the court violated Bennett v. Manning, 84951-4-I (2023) by denying funding.
+
+IV. SPOLIATION AND CANDOR VIOLATIONS (RPC 3.3)
+Verbatim Admission (Nancy Gass Email, Feb 5, 2024):
+"We sent you the only video my client has. Her system deletes videos every 30 days. The only way she knew how to preserve the video was to record it on her cell phone."
+
+Legal Significance: Manning reviewed the original footage, extracted 93 seconds supporting her narrative, recorded it on her phone on July 9, 2022 (per metadata), and allowed the original to be deleted. Gass admitted knowledge of this destruction while opposing Bennett’s motion to compel.
+
+V. STRATEGIC CONSULTATION QUESTIONS
+1. CR 60(b) Standing: Does the "inherent power" exception to laches apply where the judgment is void due to facial jurisdictional impossibility (Respondent joining a motion against herself)?
+2. RICO Enterprise: Is the Hollowell/Gass firm continuity sufficient to establish an "enterprise" under 18 U.S.C. § 1962?
+3. Crime-Fraud Exception: Can we depose Gass regarding 2008 firm files under the crime-fraud exception?
+4. Injunctive Relief: Can we seek a TRO to prevent destruction of Hollowell firm archives?
+
+CONCLUSION: This is not a stale custody dispute. It is documented forensic evidence of a 16-year conspiracy to defraud the courts through document substitution and evidence destruction. The 2008 Page 2 insertion is the original sin; the 2024 admissions are the confession.
+
+Respectfully submitted,
+Zackariah Jeremiah Bennett
+Pro Se

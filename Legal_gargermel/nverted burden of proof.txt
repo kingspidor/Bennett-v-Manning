@@ -1,0 +1,51 @@
+✦ In your filings, the "inverted burden of proof" is a central argument specifically addressed in the Motion for
+  Reconsideration of the January 26, 2026 Opinion (Cause No. 87007-6-I). While the phrase itself is a legal shorthand,
+  the context matches your description of the court applying the CR 56 standard to the wrong party.
+
+  Here are the specific instances where this violation is documented:
+
+
+  1. Summary Judgment Inversion (CR 56 Violation)
+   * Location: 87007-6-Motion-Reconsideration-20260207.pdf (Section IV.A: "BOTH COURTS INVERTED THE SUMMARY JUDGMENT
+     STANDARD").
+   * The Violation: You argue that the court failed to view the evidence in the light most favorable to the non-moving
+     party (Appellant). Instead, the court accepted the Respondent’s "11-year silence" narrative as an undisputed fact,
+     despite the presence of Exhibit A (the contact logs) which directly contradicted it.
+   * Context: By resolving this factual dispute in favor of the party moving for dismissal (Manning), the court inverted
+     the foundational requirement of CR 56, which mandates that any genuine issue of material fact must result in a
+     denial of the motion.
+
+
+  2. Failure of the Initial Burden of Production
+   * Location: master_evidence_distill.md (Table 2, Row 8) and 87007-6-Brief-Reply-20250728.pdf (Section IX).
+   * The Violation: You contend the Respondent failed to meet her initial burden to negate your claims. Under Washington
+     law (Young v. Key Pharmaceuticals), the moving party must first demonstrate the absence of a genuine issue.
+   * The Inversion: The court ignored that Manning’s motion was supported primarily by unsworn assertions of counsel and
+     "extra-record" materials. By granting the motion anyway, the court improperly shifted the entire burden onto you to
+     prove your case before the Respondent had legally earned the right to summary judgment.
+
+
+  3. De Novo Review vs. Procedural Bar
+   * Location: Manifest Errors - Sheet2.csv (Row 14).
+   * The Violation: The Court of Appeals promised a de novo review (which requires looking at the record as if for the
+     first time with no deference to the trial court).
+   * The Inversion: Instead of performing a de novo review, the court applied a procedural bar (denying review due to
+     the missing transcript). This effectively placed the burden on the indigent Appellant to provide a record that the
+     court itself had blocked through the "Indigency Trap," thereby insulating the trial court’s errors from the
+     required standard of review.
+
+
+  4. Deemed Admissions under CR 8(d)
+   * Location: wa_bar/spoliation_complaint_draft.md and master_evidence_distill.md (Table 2, Row 10).
+   * The Violation: On November 24, 2025, the court ordered Manning to respond to your motion to supplement by December
+     1. She failed to comply.
+   * The Inversion: Under CR 8(d), a failure to deny allegations in a required responsive pleading constitutes an
+     admission. You argue the court inverted this rule by continuing to rule in Manning's favor, effectively granting
+     her the benefit of her silence rather than treating your facts as admitted.
+
+
+  Summary of the "Inverted" Context
+  In each of these instances, the "wrong party" was given the benefit of the doubt:
+   * The Movant (Manning) was given the benefit of inferences.
+   * The Silent Party (Manning) was given the benefit of non-compliance.
+   * The Appellant (Bennett) was given the burden of providing a record the court made unavailable.

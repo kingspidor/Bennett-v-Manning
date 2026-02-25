@@ -1,0 +1,108 @@
+I. Manifest Factual Errors (Substantial Evidence Violations)
+
+The Court of Appeals' opinion rests on material factual findings that are physically and documentarily impossible given the record it formally admitted on December 8, 2025.
+
+    The "11-Year Silence" Finding: The opinion asserts that "From 2008 to 2019, Bennett did not attempt to contact T.B.". This finding is objectively disproven by the granular data in Exhibit A:
+    2010–2011: Manning herself arranged "set times" for Bennett to call T.B..
+    March 2011: Manning reported T.B. had a "big grin on his face" after a phone call with his father.
+    2012 Visit: Video and photographic evidence prove an in-person, multi-family visit at the Manning residence involving Bennett and T.B..
+    2012–2015: During incarceration, Manning acknowledged receiving Bennett’s "Read-to-Me-Daddy" recordings and "Angel Tree" gifts but refused to let him speak to his son.
+    The "Abandonment" Paradox (2008 Order): The court treats the foundational 2008 custody order as valid despite it containing an internal logical impossibility. The order finds the child was "ABANDONED" on March 5, 2008, while simultaneously granting a restraining order because the parents "THREATEN TO REMOVE CHILD". Under RCW 26.27.021(1), a parent who is actively attempting to retrieve a child has not "abandoned" them.
+    Manning’s Sworn Admissions: The 2008 order's abandonment finding is further disproven by Manning’s own November 26, 2008 declaration, which admitted Bennett was calling the child "a couple times per week".
+
+II. Misapplication of Law (Res Judicata and Judicial Estoppel)
+
+The court’s reliance on res judicata to bar Bennett’s civil claims is legally and factually unsustainable.
+
+    The "Seven-Day Flip-Flop" (Judicial Estoppel): On June 21, 2024, Respondent’s counsel told the Supreme Court that civil tort evidence (Exhibit A) was "not relevant" to the DVPO case. Seven days later, she told the Superior Court the same issues were "already adjudicated" in that DVPO to secure a dismissal. Judicial estoppel prevents a party from gaining advantage by taking such incompatible positions.
+    The "Actually Litigated" Standard: Transcript excerpts from the DVPO hearing (Exhibit B) prove the judge explicitly limited the scope, stating broader civil matters were "beyond the scope of why we’re here" and refusing to hear testimony on them. An issue cannot be both "not relevant" and "actually litigated".
+
+III. Systemic Due Process Violations (The "Indigency Trap")
+
+The appellate process created a structural barrier that immunized trial court errors from review by penalizing the Appellant for his poverty.
+
+    Violation of Published Precedent: In Bennett v. Manning, No. 84951-4-I (2023), the Court of Appeals held that under RAP 15.2(d), indigency determinations for public funding must be forwarded to the Supreme Court, not decided by commissioners.
+    Commissioners' Jurisdictional Overreach: Commissioners Koh and Kanazawa violated this specific mandate by issuing final denials for transcript funding themselves.
+    The Resulting "Catch-22": The final opinion used the resulting lack of a transcript as the sole basis to "decline review" of Bennett’s substantive claims and Exhibit B. Dismissing an appeal for lacking a record that was wrongfully denied violates fundamental due process.
+
+IV. Reversible Procedural Errors
+
+The court bypassed mandatory rules of procedure to reach a predetermined conclusion.
+
+    Violation of "Shall Respond" Order: On November 24, 2025, the court ordered that Manning "shall file a response" to Bennett’s motion to supplement by December 1. Manning willfully failed to comply.
+    Failure to Apply CR 8(d): Under CR 8(d), factual allegations in a pleading requiring a response are deemed admitted if not denied. Bennett’s assertions regarding fraud and ongoing contact should have been treated as undisputed facts.
+    Unresolved Pending Motion: The court issued its final opinion while Bennett's December 6, 2025 "Notice of Non-Compliance" remained pending, depriving him of a ruling on the consequences of Manning's silence before his appeal was decided.
+
+V. Professional and Ethical Breaches (RPC 3.3)
+
+The record contains powerful impeachment material regarding Respondent’s counsel’s duty of candor to the tribunal.
+
+    Actual Knowledge of Falsity: Counsel received the 2012 visit video and Facebook logs on February 1, 2024—nearly five months before the summary judgment hearing.
+    Failure to Correct the Record: Despite possessing physical evidence refuting the "11-year silence" narrative, counsel continued to rely on Manning's September 19, 2023 declaration asserting total non-contact. This conduct violates RPC 3.3(a)(1) and (a)(3).
+
+
+I. Manifest Errors of Law (Substantive)
+• Ex Post Facto Statutory Application: The trial court applied definitions from RCW 7.105 (effective July 1, 2022) to conduct that occurred in June 2022, despite the judge acknowledging the new law "starts today" on July 1. The correct governing law at the time of commencement was former chapter 26.50 RCW.
+• The Judicial "Intent Paradox": Under RCW 7.105.010, "unlawful harassment" requires a "knowing and willful" intent. The judge explicitly found on the record: "I didn’t find... that the respondent’s conduct here was designed to alarm, annoy, or harass the petitioner". Issuing the order after finding the mandatory legal element of intent missing is a facial error of law.
+• Misapplication of Judicial Estoppel: The Court of Appeals allowed Respondent’s counsel to argue that issues were "actually litigated" on June 28, 2024, just seven days after she told the Supreme Court those same issues were "NOT RELEVANT" to the case. This violates the doctrine of judicial estoppel, which prevents a party from gaining an advantage by taking incompatible positions in different courts.
+• Misapplication of Collateral Estoppel: The 2026 Opinion barred civil claims as "already adjudicated," while the DVPO transcript (Exhibit B) proves the judge explicitly limited the scope, stating broader civil and custody matters were "beyond the scope of why we’re here".
+• Discovery Denial Error: The trial judge erroneously claimed that discovery rules do not apply to protection order proceedings. RCW 7.105.200(7) expressly allows discovery for "good cause".
+II. Manifest Errors of Fact (Substantial Evidence)
+• The "11-Year Silence" Finding: The opinion’s foundational finding that "from 2008 to 2019, Bennett did not attempt to contact T.B." is a binary factual impossibility disproven by the record.
+    ◦ Exhibit A (admitted Dec 8, 2025) documents scheduled phone calls in 2010–2011 and medical engagement in 2012.
+    ◦ A June 12, 2011, in-person visit was personally filmed by Manning, showing a three-year-old T.B. calling Appellant "Daddy".
+• The "Abandonment" Paradox (2008): The court treats the 2008 order as valid despite it containing an internal logical impossibility: it finds Bennett "ABANDONED" the child on March 5, 2008, while simultaneously granting a restraining order because he was "THREATENING TO REMOVE" the child to assert custody.
+• Admission by Silence (Exhibit E): Manning’s own November 2008 declaration admitted Bennett was calling the child "a couple times per week," yet the court entered a finding of statutory abandonment just nine days later.
+III. Procedural and Constitutional Errors
+• Violation of Published Precedent (RAP 15.2(d)): In Bennett v. Manning, No. 84951-4-I (2023), this court held that Commissioners cannot decide final transcript funding and must forward requests to the Supreme Court. Commissioners Koh and Kanazawa violated this precedent by issuing final denials.
+• The "Indigency Trap": The 2026 Opinion penalizes Appellant for a "failure to perfect the record" (missing transcripts) while the court itself blocked his access to those tools by wrongfully denying funding in violation of its own precedent.
+• Violation of CR 8(d) (Mandatory Admissions): Manning ignored a mandatory order to respond to a motion by December 1, 2025. Under CR 8(d), her failure to deny the allegations constituted a mandatory admission of the facts in Appellant's motion (including the falsity of the silence narrative), which the court ignored.
+• ER 201 Mandatory Notice Violation: Under ER 201(d), judicial notice is mandatory if requested and the info is provided. The court failed to notice "indisputable" facts in its own admitted files (Exhibits A and B) regarding statutory dates and contact attempts.
+• Standard of Review Contradiction: On page 3, the court promised a de novo review of the summary judgment. However, on page 4 and in footnote 2, the court uses a procedural bar to decline review of substantive claims due to the missing record it created, while simultaneously ruling the "record does not support" those claims.
+• Opinion Issued with Pending Motions: The court issued a final decision while a Notice of Non-Compliance and a Motion for Reconsideration of Commissioners' Rulings remained pending and unruled upon.
+IV. Ethical and Privacy Violations
+• RPC 3.3 Violation (Candor to Tribunal): Counsel possessed the 2011 video and Exhibit A logs since February 2024 but continued to rely on Manning's declaration of "total silence" to obtain summary judgment.
+• Privacy Act Violation (RCW 9.73.030): The court admitted private Yahoo Messenger chats that Manning admitted she "joined the conversation" to download without authorization.
+• Fraud in the Inducement (2013 Agreement): The 2013 "Agreement and Order for Communication and Contact" was used to induce Bennett to relinquish rights, yet was never signed by a judge and contained a clause stating it was unenforceable without such a signature.
+
+Washington Rule of Evidence ER 201, which governs Judicial Notice of Adjudicative Facts, is a cornerstone of the legal arguments in Case No. 87007-6-I. While the rule itself allows a court to accept certain facts as true without formal proof—provided they are "not subject to reasonable dispute"—the record in this case reveals a systemic misapplication of judicial notice that has resulted in manifest reversible errors and a "one-sided narrative".
+
+An audit of the case through the lens of ER 201 reveals the following critical intersections:
+
+### I. Judicial Notice of Admitted vs. Ignored Records (Exhibits A & B)
+
+The most significant application of ER 201 concerns facts that are "capable of accurate and ready determination by resort to sources whose accuracy cannot reasonably be questioned" (ER 201(b)(2)). In this case, those sources are the court’s own admitted records.
+
+* Failure to Notice Admitted Evidence: On December 8, 2025, the Court of Appeals formally admitted Exhibit A (Facebook logs) and Exhibit B (DVPO transcript) into the appellate record. These documents contain "indisputable" facts that directly refute the court's foundational findings.
+
+* The "Binary Factual Contradiction": The court’s opinion twice asserts as a primary fact that "From 2008 to 2019, Bennett did not attempt to contact T.B.". Under ER 201, once Exhibit A was admitted, the court was required to take notice of the granular evidence of contact it contained—specifically phone calls in 2011, medical discussions in 2012, and video chats in 2018. By ignoring these facts in favor of a "no contact" narrative, the court committed a reversible error of fact because its finding is affirmatively contradicted by the admitted record.
+
+* Notice of the DVPO Scope: Similarly, ER 201 applies to Exhibit B, the transcript of the 2022 DVPO hearing. The appellate court used judicial notice of the existence of the DVPO to apply res judicata. However, it failed to take notice of the scope of that same proceeding. Exhibit B proves the DVPO judge explicitly stated that broader civil matters were "beyond the scope of why we’re here" and instructed Bennett not to focus on them.
+
+### II. Judicial Notice of Fraudulent Prior Judgments (The 2008 Order)
+
+The court appears to have taken judicial notice of a 2008 custody order to establish a history of abandonment. However, ER 201 does not permit a court to notice facts within a record that are subject to reasonable dispute or obtained through fraud.
+
+* The Abandonment Paradox: The 2008 order contains an "impossible contradiction" that should have precluded judicial notice of its findings. The order claims Appellant "ABANDONED" his child as of March 5, 2008, while simultaneously granting a restraining order because the parents were "THREATEN[ING] TO REMOVE CHILD".
+
+* Admission by Silence: Respondent Manning filed a declaration in 2008 admitting Bennett was calling the child "a couple times per week" just nine days before the court entered the abandonment finding. Under ER 201, a court cannot "notice" a finding of abandonment when the same court file contains sworn testimony proving the statutory definition of abandonment (RCW 26.27.021(1)) was not met.
+
+### III. Judicial Notice of Contradictory Legal Positions (Judicial Estoppel)
+
+ER 201 allows a court to take notice of its own records in related proceedings. This is critical for Appellant's argument regarding judicial estoppel and the "tactical hijinks" of Respondent’s counsel.
+
+* The Seven-Day Contradiction: On June 21, 2024, Respondent’s counsel told the Supreme Court that Bennett’s tort evidence was "not relevant" to the DVPO appeal. Seven days later, she told the Superior Court that those same issues were "already litigated" in the DVPO.
+
+* Reversible Error of Law: By adopting the "already litigated" position while ignoring the "not relevant" position documented in the Supreme Court file, the appellate court failed to take notice of a "binary contradiction" that legally precludes the application of collateral estoppel.
+
+### IV. Notice of Mandatory Rules (CR 8(d) and RAP 15.2)
+
+The Court of Appeals failed to take notice of its own mandatory directives and the legal consequences of non-compliance.
+
+* Notice of Non-Compliance: The court ordered Manning to respond to a motion by December 1, 2025. She willfully failed to comply. Under CR 8(d), the court was required to take notice that Manning’s silence legally functioned as an admission of Bennett’s factual claims regarding fraud and ongoing contact.
+
+* The Indigency Precedent: The court failed to take notice of its own binding published precedent, Bennett v. Manning, No. 84951-4-I (2023), which held that under RAP 15.2(d), the final authority to deny public funding rests with the Supreme Court, not the commissioners. By allowing commissioners to issue final denials and then penalizing Bennett for the lack of a transcript, the court ignored the "law of the case".
+
+### Conclusion for Review
+
+In this case, the court used ER 201 selectively to notice judgments provided by the Respondent while ignoring physical evidence and transcript excerpts formally admitted to the record that disproved those very judgments. This "Admission Without Consideration" gap constitutes a profound violation of Due Process and a manifest error of fact and law. Reconsideration is warranted because the court’s opinion rests on a factual premise—the 11-year silence—that the court's own admitted records prove to be a legal fiction.
